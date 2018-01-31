@@ -17,10 +17,12 @@ https://campus.exactas.uba.ar/course/view.php?id=1059 <--- id!
 """
 MATERIAS = (
     ('PLP', 1059),
+    ('Algebra 1', 1095),
+    ('LyC', 1057),
 )
 
 
-_punct_re = re.compile(r'[\t !"#$%&\'()*\-/<=>?@\[\\\]^_`{|},]+')
+_punct_re = re.compile(r'[\t !"#$%&\'()*\-/<=>?@\[\\\]^_`{|},:]+')
 
 def slugify(text, delim=u'-'):
     """Generates an slightly worse ASCII-only slug."""
