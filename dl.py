@@ -1,3 +1,5 @@
+# See LICENSE file for copyright and license details.
+
 import os
 import re
 import shutil
