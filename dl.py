@@ -14,7 +14,8 @@ from rfc6266 import parse_headers
 """
 (nombre, id en el campus),
 Por ejemplo, el link a PLP es:
-https://campus.exactas.uba.ar/course/view.php?id=1059 <--- id!
+https://campus.exactas.uba.ar/course/view.php?id=1059
+y el numero del final (1059) es el id.
 """
 MATERIAS = (
     ('PLP', 1059),
