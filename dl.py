@@ -89,7 +89,7 @@ class MoodleDL:
                 self.fetch_section(self._session.get(href))
 
     def path(self, filename, *dir_parts):
-        path = os.path.join('materias', slugify(self._course_name), *dir_parts)
+        path = os.path.join(slugify(self._course_name), *dir_parts)
         os.makedirs(path, exist_ok=True)
         return os.path.join(path, filename)
 
@@ -100,7 +100,7 @@ class MoodleDL:
 
         content = html2text.html2text(content_soup.prettify())
         if content.strip() != '':
-            with open(self.path(slugify(title) + '.md', 'secciones'), 'w') as f:
+            with open(self.path(slugify(title) + '.md'), 'w') as f:
                 f.write('# ' + title + '\n([fuente](' + res.url + '))\n---\n')
                 f.write(content)
 
@@ -117,15 +117,15 @@ class MoodleDL:
         content_disp = res.headers.get('Content-Disposition')
         if content_disp:
             cd = parse_headers(content_disp)
-            self.download_file(url, self.path(cd.filename_unsafe, 'descargas', basedir))
-            return
+            dl_url, dl_name = url, cd.filename_unsafe
+        else:
+            # assuming 'regular' moodle resource page
+            soup = self.bs(res.text)
+            a = soup.select('object a')[0]
+            dl_url = href =  a['href']
+            dl_name = href.split('/')[-1]
 
-        soup = self.bs(res.text)
-        a = soup.select('object a')[0]
-        href = a['href']
-        filename = href.split('/')[-1]
-
-        self.download_file(href, self.path(filename, 'descargas', basedir))
+        self.download_file(dl_url, self.path(dl_name, 'files_' + basedir))
 
 
 if __name__ == '__main__':
