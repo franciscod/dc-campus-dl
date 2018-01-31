@@ -33,10 +33,8 @@ def slugify(text, delim=u'-'):
 
 class MoodleDL:
     def __init__(self, base_url='https://campus.exactas.uba.ar/'):
-        global ses
         self._session = requests.session()
         self._base_url = base_url
-        ses = self._session
 
     def get(self, url, *args, **kwargs):
         if not url.startswith('http'):
@@ -88,7 +86,6 @@ class MoodleDL:
         return os.path.join(path, filename)
 
     def fetch_section(self, res):
-        global soup, content_soup, content
         soup = self.bs(res.text)
         title = soup.select('.here span')[0].text
         content_soup = soup.select('#region-main .content')[0]
@@ -108,8 +105,7 @@ class MoodleDL:
                 self.fetch_resource(href, slugify(title))
 
     def fetch_resource(self, url, basedir):
-        global r, soup, obj
-        r = res = self.get(url)
+        res = self.get(url)
         soup = self.bs(res.text)
         a = soup.select('object a')[0]
         href = a['href']
