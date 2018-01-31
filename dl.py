@@ -123,5 +123,5 @@ if __name__ == '__main__':
     dl = MoodleDL()
     dl.login()
 
-    for args in COURSES:
+    for args in MATERIAS:
         dl.fetch_course(*args)
