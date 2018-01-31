@@ -11,6 +11,8 @@ requests = "*"
 "bs4" = "*"
 "html2text" = "*"
 unidecode = "*"
+"rfc6266" = "*"
 
 
 [dev-packages]
+

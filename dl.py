@@ -8,6 +8,7 @@ from bs4 import BeautifulSoup
 import html2text
 import unidecode
 
+from rfc6266 import parse_headers
 
 """
 (nombre, id en el campus),
@@ -47,6 +48,11 @@ class MoodleDL:
             url = self._base_url + url
 
         return self._session.post(url, *args, **kwargs)
+
+    def download_file(self, url, filename):
+        data = self.get(url).content
+        with open(filename, 'wb') as f:
+            f.write(data)
 
     def bs(self, markup):
         return BeautifulSoup(markup, 'html.parser')
@@ -106,14 +112,19 @@ class MoodleDL:
 
     def fetch_resource(self, url, basedir):
         res = self.get(url)
+        content_disp = res.headers.get('Content-Disposition')
+        if content_disp:
+            cd = parse_headers(content_disp)
+            self.download_file(url, self.path(cd.filename_unsafe, 'descargas', basedir))
+            return
+
         soup = self.bs(res.text)
         a = soup.select('object a')[0]
         href = a['href']
-
         filename = href.split('/')[-1]
-        data = self.get(href).content
-        with open(self.path(filename, 'descargas', basedir), 'wb') as f:
-            f.write(data)
+
+        self.download_file(href, self.path(filename, 'descargas', basedir))
+
 
 if __name__ == '__main__':
     dl = MoodleDL()
