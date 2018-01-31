@@ -1,5 +1,6 @@
 import os
 import re
+import shutil
 import sys
 from unicodedata import normalize
 
@@ -74,6 +75,7 @@ class MoodleDL:
 
     def fetch_course(self, course_name, course_id):
         self._course_name = course_name
+        self.rename_old()
 
         # get course main page
         res = self.get('course/view.php?id=%s' % course_id)
@@ -88,10 +90,20 @@ class MoodleDL:
             if href:
                 self.fetch_section(self._session.get(href))
 
+    def base_path(self):
+        return slugify(self._course_name)
+
     def path(self, filename, *dir_parts):
-        path = os.path.join(slugify(self._course_name), *dir_parts)
+        path = os.path.join(self.base_path(), *dir_parts)
         os.makedirs(path, exist_ok=True)
         return os.path.join(path, filename)
+
+    def rename_old(self):
+        OLD_BASE = '.old'
+        path = self.base_path()
+        shutil.rmtree(OLD_BASE)
+        os.makedirs(OLD_BASE, exist_ok=True)
+        os.rename(path, os.path.join(OLD_BASE, path))
 
     def fetch_section(self, res):
         soup = self.bs(res.text)
