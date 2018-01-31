@@ -101,9 +101,11 @@ class MoodleDL:
     def rename_old(self):
         OLD_BASE = '.old'
         path = self.base_path()
-        shutil.rmtree(OLD_BASE)
-        os.makedirs(OLD_BASE, exist_ok=True)
-        os.rename(path, os.path.join(OLD_BASE, path))
+        if os.path.isdir(path):
+            if os.path.isdir(OLD_BASE):
+                shutil.rmtree(OLD_BASE)
+            os.makedirs(OLD_BASE, exist_ok=True)
+            os.rename(path, os.path.join(OLD_BASE, path))
 
     def fetch_section(self, res):
         soup = self.bs(res.text)
