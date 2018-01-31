@@ -97,10 +97,10 @@ class MoodleDL:
         content_soup = soup.select('#region-main .content')[0]
 
         content = html2text.html2text(content_soup.prettify())
-
-        with open(self.path(slugify(title) + '.md', 'secciones'), 'w') as f:
-            f.write('# ' + title + '\n([fuente](' + res.url + '))\n---\n')
-            f.write(content)
+        if content.strip() != '':
+            with open(self.path(slugify(title) + '.md', 'secciones'), 'w') as f:
+                f.write('# ' + title + '\n([fuente](' + res.url + '))\n---\n')
+                f.write(content)
 
         for a in content_soup.select('a'):
             href = a.get('href')
