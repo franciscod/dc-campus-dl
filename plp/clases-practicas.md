@@ -10,3 +10,11 @@ Se sube la primer clase práctica. Temas:
     * Evaluación en Haskell 
     * Funciones de alto orden 
 
+  * [ ![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Clase Práctica 2: Folds sobre Listas  Archivo  ](https://campus.exactas.uba.ar/mod/resource/view.php?id=57362)
+
+Se sube la segunda clase práctica. Temas:
+
+    * Ejercicios de Map y Filter 
+    * Foldr y Foldl 
+    * Foldr1 y Foldl1 
+
