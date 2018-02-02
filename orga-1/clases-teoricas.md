@@ -13,3 +13,5 @@
 
   * [ ![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Teórica 4 - Lógica digital  Archivo  ](https://campus.exactas.uba.ar/mod/resource/view.php?id=57361)
 
+  * [ ![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Teórica 5 - Lógica digital 2  Archivo  ](https://campus.exactas.uba.ar/mod/resource/view.php?id=57515)
+
