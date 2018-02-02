@@ -14,6 +14,8 @@
 
   * Introduction to Functional Programming using Haskell. R. S. Bird. Prentice-Hall, 1998. 
   * The implementation of functional programming languages. S. L. Peyton Jones. Prentice-Hall - C.A.R. Hoare Series Editor, 1987. 
+  * Hutton, G. (1999). A tutorial on the universality and expressiveness of fold. Journal of Functional Programming, 9(4), 355-372. 
+  * Meijer, E., & Jeuring, J. (1995, May). Merging monads and folds for functional programming. In International School on Advanced Functional Programming (pp. 228-266). Springer, Berlin, Heidelberg. 
 
 ##  Programación Lógica
 

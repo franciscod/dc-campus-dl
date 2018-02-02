@@ -18,3 +18,12 @@ Se sube la segunda clase práctica. Temas:
     * Foldr y Foldl 
     * Foldr1 y Foldl1 
 
+  * [ ![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Clase Práctica 3: Más de esquemas de recursión & Generación Infinita  Archivo  ](https://campus.exactas.uba.ar/mod/resource/view.php?id=57370)
+
+Se sube la primer clase práctica. Temas:
+
+    * Tipos algebraicos 
+    * Recursión estructural en tipos algebraicos 
+    * Otros esquemas de recursión sobre listas 
+    * Generación infinita 
+
