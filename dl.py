@@ -8,9 +8,9 @@ from unicodedata import normalize
 
 import requests
 from bs4 import BeautifulSoup
-import html2text
 import unidecode
 
+from html2text import HTML2Text
 from rfc6266 import parse_headers
 
 """
@@ -115,8 +115,9 @@ class MoodleDL:
         soup = self.bs(res.text)
         title = soup.select('.here span')[0].text
         content_soup = soup.select('#region-main .content')[0]
-
-        content = html2text.html2text(content_soup.prettify())
+        h = HTML2Text(baseurl='')
+        h.ul_item_mark = '-'
+        content = h.handle(content_soup.prettify())
         if content.strip() != '':
             with open(self.path(slugify(title) + '.md'), 'w') as f:
                 f.write('# ' + title + '\n([fuente](' + res.url + '))\n---\n')
