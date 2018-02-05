@@ -1,43 +1,16 @@
 # See LICENSE file for copyright and license details.
 
 import os
-import re
 import shutil
 import sys
-from unicodedata import normalize
 
 import requests
 from bs4 import BeautifulSoup
-import unidecode
-
 from html2text import HTML2Text
 from rfc6266 import parse_headers
 
-"""
-(nombre, id en el campus),
-Por ejemplo, el link a PLP es:
-https://campus.exactas.uba.ar/course/view.php?id=1059
-y el numero del final (1059) es el id.
-"""
-MATERIAS = (
-    ('PLP', 1059),
-    ('Algebra 1', 1095),
-    ('LyC', 1057),
-    ('Orga 1', 1058),
-)
-
-
-_punct_re = re.compile(r'[\t !"#$%&\'()*\-/<=>?@\[\\\]^_`{|},:]+')
-
-def slugify(text, delim=u'-'):
-    """Generates an slightly worse ASCII-only slug."""
-    result = []
-    for word in _punct_re.split(unidecode.unidecode(text).lower()):
-        word = normalize('NFKD', word)
-        if word:
-            result.append(word)
-
-    return delim.join(result)
+from config import MATERIAS
+from util import slugify
 
 class MoodleDL:
     def __init__(self, base_url='https://campus.exactas.uba.ar/'):
