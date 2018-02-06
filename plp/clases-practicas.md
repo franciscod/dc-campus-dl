@@ -27,3 +27,10 @@ Se sube la primer clase práctica. Temas:
     - Otros esquemas de recursión sobre listas 
     - Generación infinita 
 
+  - [ ![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Clase 4: Introducción al Lambda Cálculo  Archivo  ](https://campus.exactas.uba.ar/mod/resource/view.php?id=57712)
+
+    - Sintaxis de LC. 
+    - Chequeo de tipos. 
+    - Semántica operacional, valores, formas normales, programa. 
+    - Determinismo 
+
