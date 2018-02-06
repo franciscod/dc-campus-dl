@@ -34,9 +34,9 @@ Para más detalles, ver la sección de Normativa.
 
 ##  Horarios
 
-  * Lunes de 17:00 a 22 hs. Labo 4. 
-  * Miércoles de 17:00 a 22 hs.  Labo 4  . 
-  * Jueves de 17:00 a 22 hs.  Labo 4. 
+  - Lunes de 17:00 a 22 hs. Labo 4. 
+  - Miércoles de 17:00 a 22 hs.  Labo 4  . 
+  - Jueves de 17:00 a 22 hs.  Labo 4. 
 
 ##  Importante
 

@@ -1,29 +1,29 @@
 # Clases Prácticas
 ([fuente](https://campus.exactas.uba.ar/course/view.php?id=1059&section=6))
 ---
-  * [ ![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Clase Práctica 1: Haskell  Archivo  ](https://campus.exactas.uba.ar/mod/resource/view.php?id=57223)
+  - [ ![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Clase Práctica 1: Haskell  Archivo  ](https://campus.exactas.uba.ar/mod/resource/view.php?id=57223)
 
 Se sube la primer clase práctica. Temas:
 
-    * Repaso de expresiones en haskell 
-    * Listas por comprensión 
-    * Evaluación en Haskell 
-    * Funciones de alto orden 
+    - Repaso de expresiones en haskell 
+    - Listas por comprensión 
+    - Evaluación en Haskell 
+    - Funciones de alto orden 
 
-  * [ ![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Clase Práctica 2: Folds sobre Listas  Archivo  ](https://campus.exactas.uba.ar/mod/resource/view.php?id=57362)
+  - [ ![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Clase Práctica 2: Folds sobre Listas  Archivo  ](https://campus.exactas.uba.ar/mod/resource/view.php?id=57362)
 
 Se sube la segunda clase práctica. Temas:
 
-    * Ejercicios de Map y Filter 
-    * Foldr y Foldl 
-    * Foldr1 y Foldl1 
+    - Ejercicios de Map y Filter 
+    - Foldr y Foldl 
+    - Foldr1 y Foldl1 
 
-  * [ ![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Clase Práctica 3: Más de esquemas de recursión & Generación Infinita  Archivo  ](https://campus.exactas.uba.ar/mod/resource/view.php?id=57370)
+  - [ ![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Clase Práctica 3: Más de esquemas de recursión & Generación Infinita  Archivo  ](https://campus.exactas.uba.ar/mod/resource/view.php?id=57370)
 
 Se sube la primer clase práctica. Temas:
 
-    * Tipos algebraicos 
-    * Recursión estructural en tipos algebraicos 
-    * Otros esquemas de recursión sobre listas 
-    * Generación infinita 
+    - Tipos algebraicos 
+    - Recursión estructural en tipos algebraicos 
+    - Otros esquemas de recursión sobre listas 
+    - Generación infinita 
 

@@ -5,26 +5,26 @@
   
 ---  
   
-  * Hernán Melgratti 
+  - Hernán Melgratti 
 
 |  Profesor  |  **[hmelgra (o) dc.uba.ar]**  
   
 ####  Prácticas  
   
-  * Christian Roldán 
+  - Christian Roldán 
 
 |  JTP  |  **[croldan (o) dc.uba.ar]**  
   
-  * Iván Arcuschin 
+  - Iván Arcuschin 
 
 |  Ay. de 2  da  |  **[iarcuschin (o) gmail.com]**  
   
-  * Martín Jedwabny 
+  - Martín Jedwabny 
 
 |  Ay. de 2  da  |  **[martinjedwabny (o) gmail.com]**  
   
 ##  Listas de correo
 
-  * Alumnos: plp-alumnos (o) dc.uba.ar 
-  * Docentes: plp-docentes (o) dc.uba.ar 
+  - Alumnos: plp-alumnos (o) dc.uba.ar 
+  - Docentes: plp-docentes (o) dc.uba.ar 
 

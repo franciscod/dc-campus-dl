@@ -8,7 +8,7 @@
 
 ###  Contacto
 
-  * **Lista de mails de la materia** : lyc (arroba) dc (punto) uba (punto) ar 
+  - **Lista de mails de la materia** : lyc (arroba) dc (punto) uba (punto) ar 
 
 Estudiantes inscriptos y todos los docentes reciben y pueden escribir a esta
 lista. Se puede enviar **consultas académicas o administrativas** de cualquier
@@ -20,5 +20,5 @@ Los docentes hacemos un esfuerzo para tratar de responder y de hacerlo en poco
 tiempo, pero esto depende de la cantidad de consultas recibidas y la carga de
 trabajo en general.
 
-  * [ ![Foro](https://campus.exactas.uba.ar/theme/image.php/magazine/forum/1462913092/icon) Novedades  Foro  ](https://campus.exactas.uba.ar/mod/forum/view.php?id=54694)
+  - [ ![Foro](https://campus.exactas.uba.ar/theme/image.php/magazine/forum/1462913092/icon) Novedades  Foro  ](https://campus.exactas.uba.ar/mod/forum/view.php?id=54694)
 
