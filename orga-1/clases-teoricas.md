@@ -17,3 +17,5 @@
 
   - [ ![Carpeta](https://campus.exactas.uba.ar/theme/image.php/magazine/folder/1462913092/icon) Teórica 6 - ISA  Carpeta  ](https://campus.exactas.uba.ar/mod/folder/view.php?id=57725)
 
+  - [ ![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Teórica 7: ISA 2  Archivo  ](https://campus.exactas.uba.ar/mod/resource/view.php?id=58111)
+
