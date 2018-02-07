@@ -5,3 +5,5 @@
 
   - [ ![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Clase 2: Guardas y Tipos de Datos  Archivo  ](https://campus.exactas.uba.ar/mod/resource/view.php?id=57371)
 
+  - [ ![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Clase 3: Reducción + Relaciones  Archivo  ](https://campus.exactas.uba.ar/mod/resource/view.php?id=58110)
+
