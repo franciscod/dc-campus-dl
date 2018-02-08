@@ -7,3 +7,5 @@
 
   - [ ![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Teórica Lambda Cálculo 1  Archivo  ](https://campus.exactas.uba.ar/mod/resource/view.php?id=57369)
 
+  - [ ![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Teórica Lambda Cálculo 2  Archivo  ](https://campus.exactas.uba.ar/mod/resource/view.php?id=58294)
+
