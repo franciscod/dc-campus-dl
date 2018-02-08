@@ -5,3 +5,5 @@
 
   - [ ![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Práctica 2: Funciones S-computables  Archivo  ](https://campus.exactas.uba.ar/mod/resource/view.php?id=57710) 133.7Kb documento PDF 
 
+  - [ ![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Práctica 3: Funciones no computables y conjuntos c.e.  Archivo  ](https://campus.exactas.uba.ar/mod/resource/view.php?id=58300) 124.7Kb documento PDF 
+
