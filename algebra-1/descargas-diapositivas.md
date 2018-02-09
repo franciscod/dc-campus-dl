@@ -7,3 +7,5 @@
 
   - [ ![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Clase 3: Reducción + Relaciones  Archivo  ](https://campus.exactas.uba.ar/mod/resource/view.php?id=58110)
 
+  - [ ![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Clase 4: Recursión  Archivo  ](https://campus.exactas.uba.ar/mod/resource/view.php?id=58641)
+
