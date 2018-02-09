@@ -34,3 +34,8 @@ Se sube la primer clase práctica. Temas:
     - Semántica operacional, valores, formas normales, programa. 
     - Determinismo 
 
+  - [ ![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Clase 5: Extensiones del Lambda Cálculo  Archivo  ](https://campus.exactas.uba.ar/mod/resource/view.php?id=58382)
+
+    - Extensión de tuplas 
+    - Extensión de árboles binarios 
+
