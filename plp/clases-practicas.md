@@ -39,3 +39,9 @@ Se sube la primer clase práctica. Temas:
     - Extensión de tuplas 
     - Extensión de árboles binarios 
 
+  - [ ![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Clase 6: Inferencia de tipos  Archivo  ](https://campus.exactas.uba.ar/mod/resource/view.php?id=58813)
+
+    - Algoritmo Martelli-Montanari 
+    - Algoritmo W 
+    - Extensiones del algoritmo W 
+
