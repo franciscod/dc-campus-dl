@@ -17,3 +17,7 @@
 
   - [ ![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Clase 6 - La máquina ORGA1: Seguimiento  Archivo  ](https://campus.exactas.uba.ar/mod/resource/view.php?id=58667)
 
+  - [ ![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Clase 7a - Programación en assembler de ORGA1  Archivo  ](https://campus.exactas.uba.ar/mod/resource/view.php?id=58816)
+
+  - [ ![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Clase 7b - Formato de Instrucción  Archivo  ](https://campus.exactas.uba.ar/mod/resource/view.php?id=58817)
+
