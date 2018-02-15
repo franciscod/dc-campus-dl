@@ -7,3 +7,5 @@
 
   - [ ![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Práctica 3 - Arquitectura del CPU  Archivo  ](https://campus.exactas.uba.ar/mod/resource/view.php?id=58295)
 
+  - [ ![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Práctica 4 - Diseño de ISA  Archivo  ](https://campus.exactas.uba.ar/mod/resource/view.php?id=58812)
+
