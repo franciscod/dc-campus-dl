@@ -11,3 +11,5 @@
 
   - [ ![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Clase 5: Más sobre recursión y algoritmo de división  Archivo  ](https://campus.exactas.uba.ar/mod/resource/view.php?id=58718)
 
+  - [ ![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Clase 6: Pattern matching + Más recursión  Archivo  ](https://campus.exactas.uba.ar/mod/resource/view.php?id=58822)
+
