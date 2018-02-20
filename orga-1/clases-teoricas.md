@@ -23,3 +23,7 @@
 
   - [ ![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Teórica 7 - ISA 2  Archivo  ](https://campus.exactas.uba.ar/mod/resource/view.php?id=58111)
 
+  - [ ![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Teórica 8 - UC y microprogramación  Archivo  ](https://campus.exactas.uba.ar/mod/resource/view.php?id=58856)
+
+  - [ ![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Teórica 8 - documento de diseño de UC  Archivo  ](https://campus.exactas.uba.ar/mod/resource/view.php?id=58857)
+
