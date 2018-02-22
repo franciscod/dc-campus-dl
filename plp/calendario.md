@@ -10,7 +10,9 @@ Taller Funcional  |
 **05/02 y 07/02**  
   
 ---|---  
-Taller Objetos  |
+[ Taller Objetos
+](https://campus.exactas.uba.ar/mod/resource/view.php?id=58896 "Taller
+Objetos") |
 
 **22/02 y 26/02**  
   
