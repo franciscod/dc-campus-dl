@@ -11,5 +11,7 @@
 
   - [ ![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Teórica sobre inferencia de tipos  Archivo  ](https://campus.exactas.uba.ar/mod/resource/view.php?id=58380)
 
+  - [ ![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Teórica de subtipado  Archivo  ](https://campus.exactas.uba.ar/mod/resource/view.php?id=58883)
+
   - [ ![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Teórica de POO  Archivo  ](https://campus.exactas.uba.ar/mod/resource/view.php?id=58876)
 
