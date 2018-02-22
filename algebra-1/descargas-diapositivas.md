@@ -13,3 +13,5 @@
 
   - [ ![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Clase 6: Pattern matching + Más recursión  Archivo  ](https://campus.exactas.uba.ar/mod/resource/view.php?id=58822)
 
+  - [ ![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Clase 7: Listas: Recursión y Pattern Matching  Archivo  ](https://campus.exactas.uba.ar/mod/resource/view.php?id=58875)
+
