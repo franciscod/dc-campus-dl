@@ -47,5 +47,12 @@ Se sube la primer clase práctica. Temas:
 
   - [ ![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Clase Práctica 7: Subtipado  Archivo  ](https://campus.exactas.uba.ar/mod/resource/view.php?id=58879)
 
+    - Principio de sustitutividad 
+    - Demostraciones de tipado usando la relación de subtipado 
+    - Cómo trabajar con nuevos tipos 
+
   - [ ![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Clase Práctica 8: POO  Archivo  ](https://campus.exactas.uba.ar/mod/resource/view.php?id=58897)
+
+    - Sintaxis y semántica de programas en Javascript 
+    - Prototipación 
 
