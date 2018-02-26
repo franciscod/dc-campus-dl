@@ -29,3 +29,9 @@
 
   - [ ![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Teórica 9 - Memoria  Archivo  ](https://campus.exactas.uba.ar/mod/resource/view.php?id=58880)
 
+  - [ ![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Teórica 10 - E_S  Archivo  ](https://campus.exactas.uba.ar/mod/resource/view.php?id=58941)
+
+  - [ ![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Teórica 11 - E_S 2  Archivo  ](https://campus.exactas.uba.ar/mod/resource/view.php?id=58942)
+
+  - [ ![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Teórica 12 - Buses y protocolos  Archivo  ](https://campus.exactas.uba.ar/mod/resource/view.php?id=58943)
+
