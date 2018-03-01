@@ -1,27 +1,27 @@
 # Cosas útiles
 ([fuente](https://campus.exactas.uba.ar/course/view.php?id=1059&section=11))
 ---
-#  Algunas cosas útiles para programar
+# Algunas cosas útiles para programar
 
-###  Haskell
+### Haskell
 
 **Funciones:** foldr, foldl, foldr1, foldl1, map, zipWith, all, any, null,
 nub, sort, rem, (++), (!!), head, tail, init, last, length, replicate,
 iterate, filter, take, drop, elem, find, isNothing, fromJust, maybe, lookup,
-reverse, concat, union, ( >>=), span, takeWhile, dropWhile, concatMap, and,
-or, sum, max, maximum, min, minimum, (==), (/=), not, ord, chr
+reverse, concat, union, (>>=), span, takeWhile, dropWhile, concatMap, and, or,
+sum, max, maximum, min, minimum, (==), (/=), not, ord, chr
 
 Algunas de estas funciones no se encuentran definidas en el preludio, sino en
 los módulos List o Maybe. Para usarlas, incluir la(s) línea(s) import
 Data.List y/o import Data.Maybe respectivamente en el archivo fuente.
 
-###  Prolog
+### Prolog
 
 **Predicados:** =, sort, msort, length, nth1, nth0, member, append, last,
 between, is_list, list_to_set, is_set, union, intersection, subset, subtract,
 select, delete, reverse, atom, number, numlist, sumlist, flatten, help
 
-**Operaciones extra-lógicas:** is, \=, ==, =:=, =\=,  >, <, =<, >=, abs, max,
+**Operaciones extra-lógicas:** is, \=, ==, =:=, =\=, >, <, =<, >=, abs, max,
 min, gcd, var, nonvar, ground, trace, notrace
 
 **Metapredicados:** bagof, setof, maplist, include, not, forall, assert,
@@ -31,7 +31,7 @@ retract, listing
 no están permitidos para resolver prácticas ni parciales. Sólo son lícitos en
 el TP.
 
-###  Smalltalk
+### Smalltalk
 
 **Métodos de colecciones:** select:, reject:, collect:, detect:,
 detect:ifNone:, inject:into:, fold:, add:, at:, at:put:, do:,

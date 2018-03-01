@@ -5,12 +5,12 @@
 
 |
 
-  - Pablo De Cristóforis 
-  - María Elena Buemi   
+  - Pablo De Cristóforis
+  - María Elena Buemi  
 
-  - Sergio G. Roman  o 
-  - Emmanuel Luján 
-  - Magalí Klinger 
+  - Sergio G. Romano
+  - Emmanuel Luján
+  - Magalí Klinger
 
   
 ---|---

@@ -3,37 +3,37 @@
 ---
   
 
-#  Instancias de evaluación
+# Instancias de evaluación
 
-Taller Funcional  |
+Taller Funcional |
 
 **05/02 y 07/02**  
   
 ---|---  
-Taller Objetos  |
+Taller Objetos |
 
 **22/02 y 26/02**  
   
-[ Taller Prolog ](https://campus.exactas.uba.ar/mod/resource/view.php?id=58996
+[Taller Prolog](https://campus.exactas.uba.ar/mod/resource/view.php?id=58996
 "Taller Prolog") |
 
 **01/03 y 07/03**  
   
-Primer Parcial  |
+Primer Parcial |
 
-**Evaluación: 19** ****/02**  
+**Evaluación: 19** ** **/02**  
 **  
   
-Segundo Parcial  |
+Segundo Parcial |
 
 **Evaluación: 14** **/03  
 **  
   
-Recuperatorio 1º Parcial  |
+Recuperatorio 1º Parcial |
 
 **Evaluación: 19/03**  
   
-Recuperatorio 2º Parcial  |
+Recuperatorio 2º Parcial |
 
 **Evaluación: 21/03**
 

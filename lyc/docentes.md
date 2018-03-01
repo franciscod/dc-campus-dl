@@ -1,7 +1,7 @@
 # Docentes
 ([fuente](https://campus.exactas.uba.ar/course/view.php?id=1057&section=5))
 ---
-###  Profesor
+### Profesor
 
 **Santiago Figueira**  
 ---  
@@ -10,7 +10,7 @@ Figueira](https://campus.exactas.uba.ar/pluginfile.php/82695/course/section/1345
   
 ###
 
-###  Jefe de Trabajos Prácticos
+### Jefe de Trabajos Prácticos
 
 **Ariel Bendersky  
 **  
@@ -20,16 +20,16 @@ Bendersky](https://campus.exactas.uba.ar/pluginfile.php/82695/course/section/134
   
 ###
 
-###  Ayudantes de Segunda
+### Ayudantes de Segunda
 
-**Franco Frizzo** |  **Tomás González  
-** |  **Ignacio Mollo**  
+**Franco Frizzo** | **Tomás González  
+** | **Ignacio Mollo**  
 ---|---|---  
 ![Franco
 Frizzo](https://campus.exactas.uba.ar/pluginfile.php/82695/course/section/13455/doc_frizzo.jpg)
-|  ![Tomás
+| ![Tomás
 González](https://campus.exactas.uba.ar/pluginfile.php/82695/course/section/13455/doc_gonzalez.jpg)
-|  ![Ignacio
+| ![Ignacio
 Mollo](https://campus.exactas.uba.ar/pluginfile.php/82695/course/section/13455/doc_mollo.jpg)  
 ---
 

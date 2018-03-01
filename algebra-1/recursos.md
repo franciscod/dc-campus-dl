@@ -3,7 +3,7 @@
 ---
 **Recursos:**
 
-  - [ Pagina web de la materia ](http://cms.dm.uba.ar/academico/materias/1ercuat2017/algebra_I/) (del DM, incluye horarios de teóricas y prácticas) 
-  - [ Página oficial de Haskell ](http://www.haskell.org/)
-  - [ Instalación de GHCI ](http://www.haskell.org/platform/)
+  - [Pagina web de la materia](http://cms.dm.uba.ar/academico/materias/1ercuat2017/algebra_I/) (del DM, incluye horarios de teóricas y prácticas)
+  - [Página oficial de Haskell](http://www.haskell.org/)
+  - [Instalación de GHCI](http://www.haskell.org/platform/)
 
