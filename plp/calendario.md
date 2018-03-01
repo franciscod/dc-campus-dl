@@ -14,7 +14,8 @@ Taller Objetos  |
 
 **22/02 y 26/02**  
   
-Taller Prolog  |
+[ Taller Prolog ](https://campus.exactas.uba.ar/mod/resource/view.php?id=58996
+"Taller Prolog") |
 
 **01/03 y 07/03**  
   
