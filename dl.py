@@ -1,8 +1,10 @@
 # See LICENSE file for copyright and license details.
 
+import hashlib
 import os
 import shutil
 import sys
+from pathlib import Path
 
 import requests
 from bs4 import BeautifulSoup
@@ -12,10 +14,19 @@ from rfc6266 import parse_headers
 from config import MATERIAS
 from util import slugify
 
+HASH_BUF_SIZE = 65536
+OLD_BASE_DIR = '.old'
+
 class MoodleDL:
     def __init__(self, base_url='https://campus.exactas.uba.ar/'):
         self._session = requests.session()
         self._base_url = base_url
+
+    def head(self, url, *args, **kwargs):
+        if not url.startswith('http'):
+            url = self._base_url + url
+
+        return self._session.head(url, *args, **kwargs)
 
     def get(self, url, *args, **kwargs):
         if not url.startswith('http'):
@@ -29,7 +40,46 @@ class MoodleDL:
 
         return self._session.post(url, *args, **kwargs)
 
+    def etag_sha1_matches(self, url, filename):
+        # assumes ETag is the SHA1 of the file
+        res = self.head(url, allow_redirects=True)
+        etag = res.headers.get('ETag')
+
+        if not etag:
+            for r in res.history:
+                etag = r.headers.get('ETag')
+                if etag:
+                    break
+            else:
+                print('No ETag on headers', filename, url)
+                return False
+
+        if not Path(filename).exists():
+            print('File not previously downloaded', filename, url)
+            return False
+
+        sha1 = hashlib.sha1()
+        with open(filename, 'rb') as f:
+            while True:
+                data = f.read(HASH_BUF_SIZE)
+                if not data:
+                    break
+                sha1.update(data)
+        digest = sha1.hexdigest()
+
+        if not digest == etag:
+            print('Digest and ETag mismatch', filename, url)
+            print(digest, etag_sha1_matches)
+            return False
+
+        return True
+
     def download_file(self, url, filename):
+        old_filename = os.path.join(OLD_BASE_DIR, filename)
+        if self.etag_sha1_matches(url, old_filename):
+            os.rename(old_filename, filename)
+            return
+
         data = self.get(url).content
         with open(filename, 'wb') as f:
             f.write(data)
@@ -76,13 +126,13 @@ class MoodleDL:
         return os.path.join(path, filename)
 
     def rename_old(self):
-        OLD_BASE = '.old'
         path = self.base_path()
+        old_path = os.path.join(OLD_BASE_DIR, path)
         if os.path.isdir(path):
-            if os.path.isdir(OLD_BASE):
-                shutil.rmtree(OLD_BASE)
-            os.makedirs(OLD_BASE, exist_ok=True)
-            os.rename(path, os.path.join(OLD_BASE, path))
+            if os.path.isdir(old_path):
+                shutil.rmtree(old_path)
+            os.makedirs(old_path, exist_ok=True)
+            os.rename(path, old_path)
 
     def fetch_section(self, res):
         soup = self.bs(res.text)
