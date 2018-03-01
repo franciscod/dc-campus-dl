@@ -6,9 +6,8 @@ import shutil
 import sys
 from pathlib import Path
 
-import requests
-from bs4 import BeautifulSoup
 from html2text import HTML2Text
+from requests_html import HTMLSession
 from rfc6266 import parse_headers
 
 from config import MATERIAS
@@ -19,7 +18,7 @@ OLD_BASE_DIR = '.old'
 
 class MoodleDL:
     def __init__(self, base_url='https://campus.exactas.uba.ar/'):
-        self._session = requests.session()
+        self._session = HTMLSession()
         self._base_url = base_url
 
     def head(self, url, *args, **kwargs):
@@ -84,9 +83,6 @@ class MoodleDL:
         with open(filename, 'wb') as f:
             f.write(data)
 
-    def bs(self, markup):
-        return BeautifulSoup(markup, 'html.parser')
-
     def login(self, username='guest', password='guest'):
         return self.post('login/index.php', data={
             'action': 'login',
@@ -96,7 +92,7 @@ class MoodleDL:
 
     def agree_policy(self, res):
         return self.post('user/policy.php', data={
-            'sesskey': self.bs(res.text).select('#region-main form input[name=sesskey]')[0]['value'],
+            'sesskey': res.html.find('#region-main form input[name=sesskey]', first=True).attrs['value'],
             'agree': '1'
         })
 
@@ -112,8 +108,8 @@ class MoodleDL:
             res = self.agree_policy(res)
 
         self.fetch_section(res)
-        for a in self.bs(res.text).select('.tabtree li a'):
-            href = a.get('href')
+        for a in res.html.find('.tabtree li a'):
+            href = a.attrs.get('href')
             if href:
                 self.fetch_section(self._session.get(href))
 
@@ -135,19 +131,18 @@ class MoodleDL:
             os.rename(path, old_path)
 
     def fetch_section(self, res):
-        soup = self.bs(res.text)
-        title = soup.select('.here span')[0].text
-        content_soup = soup.select('#region-main .content')[0]
+        title = res.html.find('.here span', first=True).text
+        content = res.html.find('#region-main .content', first=True)
         h = HTML2Text(baseurl='')
         h.ul_item_mark = '-'
-        content = h.handle(content_soup.prettify())
-        if content.strip() != '':
+        md_content = h.handle(content.html)
+        if md_content.strip() != '':
             with open(self.path(slugify(title) + '.md'), 'w') as f:
                 f.write('# ' + title + '\n([fuente](' + res.url + '))\n---\n')
-                f.write(content)
+                f.write(md_content)
 
-        for a in content_soup.select('a'):
-            href = a.get('href')
+        for a in res.html.find('#region-main .content a'):
+            href = a.attrs.get('href')
             if not href:
                 continue
 
@@ -162,9 +157,8 @@ class MoodleDL:
             dl_url, dl_name = url, cd.filename_unsafe
         else:
             # assuming 'regular' moodle resource page
-            soup = self.bs(res.text)
-            a = soup.select('object a')[0]
-            dl_url = href =  a['href']
+            a = res.html.find('object a', first=True)
+            dl_url = href =  a.attrs['href']
             dl_name = href.split('/')[-1]
 
         self.download_file(dl_url, self.path(dl_name, 'files_' + basedir))
