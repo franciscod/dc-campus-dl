@@ -15,3 +15,5 @@
 
   - [ ![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Teórica de POO  Archivo  ](https://campus.exactas.uba.ar/mod/resource/view.php?id=58876)
 
+  - [ ![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Teórica Programación Lógica (Resolución)  Archivo  ](https://campus.exactas.uba.ar/mod/resource/view.php?id=58988)
+
