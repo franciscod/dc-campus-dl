@@ -13,3 +13,7 @@
 
   - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Práctica 5 - POO Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=58898)
 
+  - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Práctica 6 - Resolución Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=58999)
+
+  - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Práctica 7 - Programación lógica Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=59000)
+

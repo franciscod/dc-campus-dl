@@ -25,3 +25,7 @@
 
   - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Clase 9 - Cache Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=58990)
 
+  - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Clase 10a - Entrada/Salida Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=59028)
+
+  - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Clase 10b - Buses Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=59029)
+
