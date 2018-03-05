@@ -13,3 +13,9 @@
 
   - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/archive) Taller Microprogramación Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=58937)
 
+  - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Taller Interrupciones - Enunciado Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=59034)
+
+  - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/sourcecode) Taller Interrupciones - Código base Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=59035)
+
+  - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/archive) Taller Interrupciones - Paquete DOSbox Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=59036)
+
