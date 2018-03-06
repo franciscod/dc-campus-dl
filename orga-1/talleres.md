@@ -19,3 +19,5 @@
 
   - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/archive) Taller Interrupciones - Paquete DOSbox Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=59036)
 
+  - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/archive) Taller Buses Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=59140)
+
