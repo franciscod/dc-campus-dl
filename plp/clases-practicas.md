@@ -65,3 +65,11 @@ Se sube la primer clase práctica. Temas:
     - Naturales y Listas
     - El predicado: Append
 
+  - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Clase Práctica 11: Prolog 2 Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=59047)
+
+    - Instanciación de variables
+    - Generate & Test
+    - Evitando repetir resultados
+    - Negación por falla
+    - Generación infinita
+
