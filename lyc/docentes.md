@@ -3,16 +3,14 @@
 ---
 ### Profesor
 
-**Santiago Figueira**  
+| **Santiago Figueira**  
 ---  
 ![Santiago
 Figueira](https://campus.exactas.uba.ar/pluginfile.php/82695/course/section/13455/doc_figueira.jpg)  
   
-###
-
 ### Jefe de Trabajos Prácticos
 
-**Ariel Bendersky  
+| **Ariel Bendersky  
 **  
 ---  
 ![Ariel
@@ -30,6 +28,5 @@ Frizzo](https://campus.exactas.uba.ar/pluginfile.php/82695/course/section/13455/
 | ![Tomás
 González](https://campus.exactas.uba.ar/pluginfile.php/82695/course/section/13455/doc_gonzalez.jpg)
 | ![Ignacio
-Mollo](https://campus.exactas.uba.ar/pluginfile.php/82695/course/section/13455/doc_mollo.jpg)  
----
+Mollo](https://campus.exactas.uba.ar/pluginfile.php/82695/course/section/13455/doc_mollo.jpg)
 
