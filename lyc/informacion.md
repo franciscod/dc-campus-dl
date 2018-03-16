@@ -18,7 +18,8 @@ Examen| Fecha| Horario| Aula
 Parcial de computabilidad | Jueves 22 de febrero | 17 a 21 | Aula 8, Pabellón
 1  
 Parcial de lógica | Jueves 15 de marzo | 17 a 21 | Aula Magna, Pabellón 1  
-Recuperatorio de computabilidad | Lunes 19 de marzo | 17 a 21 | A determinar  
+Recuperatorio de computabilidad | Lunes 19 de marzo | 17 a 21 | Aula 10,
+**Pabellón 2**  
 Recuperatorio de lógica | Jueves 22 de marzo | 17 a 21 | A determinar  
   
 ### Régimen de aprobación
