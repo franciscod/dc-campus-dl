@@ -5,7 +5,19 @@
 
  **Descripción de la materia**
 
-####  Objetivos
+****
+
+##  Importante
+
+****
+
+1er Recu. Lunes: Aula 6 de 14 a 17
+
+****
+
+2do Recu. Miércoles: Aula 2 13 a 16
+
+Objetivos
 
 Evaluar conceptos de lenguajes de programación en términos de su contribución
 al proceso de desarrollo de software y desarrollar los criterios necesarios
@@ -37,10 +49,6 @@ Para más detalles, ver la sección de Normativa.
   - Lunes de 17:00 a 22 hs. Labo 4.
   - Miércoles de 17:00 a 22 hs. Labo 4.
   - Jueves de 17:00 a 22 hs. Labo 4.
-
-## Importante
-
-Durante la primer semana de clases, estaremos en el Aula 5.
 
 ## Fechas
 
