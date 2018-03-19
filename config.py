@@ -14,7 +14,7 @@ MATERIAS = [
   ("algo2-v", 990),
   ("algo3", 992),
   ("aap", 1017),
-  ("acd", 1025),
+  # ("acd", 1025), # no anda como guest
   ("arqs-web", 1060),
   ("azar", 1026),
   ("bases", 1001),
