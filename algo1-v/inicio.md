@@ -5,8 +5,11 @@
 
 Descripción general de la materia
 
-  - **Horarios:** Lunes , miércoles y vienes. De 17 hs a 22 hs, Pabellón 1.
-  - **Aula:** Laboratorio Turing (pab I) los lunes, Aula .. los miércoles y viernes. 
+  - **Horarios:**
+    - Lunes, miércoles y vienes. De **17 hs a 22** hs.
+  - **Aulas:**
+    - Lunes: Laboratorio **Turing** (pab I)
+    - Miércoles y Viernes: **Aula 5**
 
   - ****Objetivos**  
 **
