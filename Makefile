@@ -7,3 +7,7 @@ dl:
 .PHONY: bot
 bot:
 	pipenv run python tgbot.py
+
+.PHONY: install
+install:
+	pipenv install .
