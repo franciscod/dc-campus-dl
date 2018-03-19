@@ -1,7 +1,7 @@
 # Cronograma
 ([fuente](https://campus.exactas.uba.ar/course/view.php?id=1010&section=1))
 ---
-La materia se dictará Lunes y Jueves en el horario de 14 a 18 hs (tentativo).
+La materia se dictará Lunes y Jueves en el horario de 13 a 17 hs (definitivo).
 
 **Cronograma** :
 
