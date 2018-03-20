@@ -17,7 +17,7 @@
 
 ## Práctica (Viernes 9 a 14hs)
 
-  - Facundo Carrilo (JTP)
+  - Facundo Carrillo (JTP)
   - Manuel Dubinsky (Ay. de primera)
   - Carolina Lang (Ay. de segunda)
   - Gonzalo Guillamon (Ay. de segunda)

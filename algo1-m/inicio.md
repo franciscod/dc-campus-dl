@@ -21,8 +21,8 @@ laboratorio.
 ## Horarios
 
   - Lunes 9 a 14: Taller (Laboratorio Turing)
-  - Miércoles 9 a 14: Teórica (Aula a confirmar)
-  - Viernes 9 a 14: Práctica (Aula a confirmar)
+  - Miércoles 9 a 14: Teórica (E24)
+  - Viernes 9 a 14: Práctica (E24)
 
   - [![Foro](https://campus.exactas.uba.ar/theme/image.php/magazine/forum/1462913092/icon) Novedades Foro](https://campus.exactas.uba.ar/mod/forum/view.php?id=51570)
 

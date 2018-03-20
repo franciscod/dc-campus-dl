@@ -31,9 +31,9 @@
 
 |  Ay. de 1ra | **[jmperez.85 (o) gmail.com]**  
   
-  - [ Daniela Marottoli](http://www.dc.uba.ar/materias/plp/cursos/img/daniela-marottoli/image_preview)
+  - [Daniela Marottoli](http://www.dc.uba.ar/materias/plp/cursos/img/daniela-marottoli/image_preview)
 
-| Ay. de 2da | ****[dani.marottoli(o)gmail.com**** **]**  
+|  Ay. de 2da | **[dmarottoli (o) dc.uba.ar]**  
   
   - [Iván Pondal](https://www.dc.uba.ar/materias/plp/cursos/img/foto_ivan_pondal.jpg/image_preview)
 

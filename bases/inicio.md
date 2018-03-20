@@ -14,12 +14,16 @@ En esta página encontrarás toda la información sobre la materia.
 
 **Horarios**
 
-| _**Horarios y Aulas**_  
+| _**Horarios **_  
 ---|---  
 **Teórica** |  Viernes 17 a 20hs **  
 **  
 **Práctica** |  Miércoles 19 a 22hs y Viernes 20 a 22hs **  
 **  
+**** |  
+| _**Aulas**_  
+**Miércoles** | **Aula 8**  
+**Viernes** | **Aula 10**  
   
 **Contacto**
 
