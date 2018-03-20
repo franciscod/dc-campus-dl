@@ -47,8 +47,8 @@ nunca ven.
 
 ## Horarios
 
-  - Martes de 17:30 a 21 hs. Aula a definir.
-  - Jueves de 17 a 19:30 hs. Aula a definir.
+  - Martes de 17:30 a 21 hs. Aula 10.
+  - Jueves de 17 a 19:30 hs. Aula a E24.
 
 ## Fechas
 
