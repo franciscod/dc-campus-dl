@@ -1,53 +1,17 @@
 # Docentes
 ([fuente](https://campus.exactas.uba.ar/course/view.php?id=997&section=7))
 ---
-  - **  
-Teórica**
+  - **Teórica**
+      - Esteban Mocskos 
 
-      - Marcelo Risk (Profesor)
-
-![Marcelo Risk](https://www.dc.uba.ar/materias/oc1/2017/c2/docentes/mrisk.jpg)
+(Profesor)
 
   - **Práctica**
-      - Leopoldo Taravilse (Jefe de trabajos prácticos)
-
-##### ![Leopoldo
-Taravilse](https://www.dc.uba.ar/materias/oc1/2017/c2/docentes/person.jpg)
-
       - Alexis Tcach (Jefe de trabajos prácticos)
-
-##### ![Alexis
-Tcach](https://www.dc.uba.ar/materias/oc1/2017/c2/docentes/person.jpg)
-
       - Paula Verghelet (Ayudante de 1era)
-![Paula](https://www.dc.uba.ar/materias/oc1/2017/c2/docentes/pverghelet.jpg/image_mini)
-
-  - ##### 
-
-      - Verónica Coy (Ayudante de 2da)
-
-##### ![Verónica
-Coy](https://www.dc.uba.ar/materias/oc1/2017/c2/docentes/vcoy.jpg)
-
-      - Gustavo Hurovich (Ayudante de 2da)
-
-##### ![Gustavo
-Hurovich](https://www.dc.uba.ar/materias/oc1/2017/c2/docentes/gush.jpg)
-
-      - Ignacio Lebrero (Ayudante de 2da)
-
-##### ![Ignacio
-Lebrero](https://www.dc.uba.ar/materias/oc1/2017/c2/docentes/person.jpg)
-
-      - Juan Manuel Ortíz de Zárate (Ayudante de 2da)
-
-##### ![Juan Manuel Ortíz de
-Zárate](https://www.dc.uba.ar/materias/oc1/2017/c2/docentes/person.jpg)
-
-      - Martín Ventura (Ayudante de 2da)
-
-##### ![Martín
-Ventura](https://www.dc.uba.ar/materias/oc1/2017/c2/docentes/martin.jpg)
+      - Carolina Lang (Ayudante de 2da)
+      - Gregorio Freidin (Ayudante de 2da)
+      - Christian Murga (Ayudante de 2da)
 
 ## Listas de mail
 
