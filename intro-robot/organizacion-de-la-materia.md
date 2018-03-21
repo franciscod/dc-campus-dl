@@ -1,5 +1,5 @@
 # Organización de la materia
-([fuente](https://campus.exactas.uba.ar/course/view.php?id=1028&section=9))
+([fuente](https://campus.exactas.uba.ar/course/view.php?id=1028&section=2))
 ---
   - **  
 Cursada**
