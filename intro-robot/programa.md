@@ -1,11 +1,7 @@
 # Programa
-([fuente](https://campus.exactas.uba.ar/course/view.php?id=1028&section=10))
+([fuente](https://campus.exactas.uba.ar/course/view.php?id=1028&section=6))
 ---
-  -   
-Introducción a la robótica móvil: evolución histórica de la robótica, tipos de
-robots, hardware y software utilizados, electrónica aplicada a robótica, casos
-de aplicación.
-
+  - Introducción a la robótica móvil: evolución histórica de la robótica, tipos de robots, hardware y software utilizados, electrónica aplicada a robótica, casos de aplicación.
   - Percepción: tipos de sensores empleados en la robótica móvil (encoders, IMU, GPS, láser, cámara, RGB-D). Modelos de sensado.
   - Actuación: tipos de actuadores, control de motores eléctricos (drivers, PWM). Sistemas de locomoción.
   - Control de Movimiento: controladores lineales (PID), no-lineales (MPC, LQR). Control de posición y velocidad mediante PID, seguimiento de trayectorias; evasión de obstáculos (VFH, SND, entre otros).

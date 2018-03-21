@@ -1,18 +1,17 @@
 # Organización de la materia
 ([fuente](https://campus.exactas.uba.ar/course/view.php?id=1028&section=2))
 ---
-  - **  
-Cursada**
+  - **Cursada**
 
-La materia se va a dictar los días miércoles y viernes en el horario de 17 a
-22 hs.
+La materia se va a dictar los días miércoles y viernes en el horario de 10 a
+13 hs y de 14 a 16 hs.
 
 La modalidad de las clases de la materia es teórico-práctica. Las clases
 teóricas introducen los distintos temas que se van desarrollar en la materia,
 tanto conceptual como analiticamente. La parte práctica de la materia
-involucra la realización de talleres y trabajos prácticos en los cuales los
-alumnos van a trabajar con tecnologías de amplio uso en la actualidad, tales
-como Arduino, ROS (Robot Operating System), simulador V-REP, entre otros.
+involucra la realización de talleres en los cuales los alumnos van a trabajar
+con tecnologías de amplio uso en la actualidad, tales como Arduino, ROS (Robot
+Operating System), simulador V-REP, entre otros.
 
 Para comenzar a cursar la materia es necesario haberse inscripto en el sistema
 de inscripciones
@@ -24,13 +23,11 @@ carreras se debe contar con conocimientos equivalentes.
 
   - **Régimen de aprobación**
 
-El régimen de aprobación de la materia consiste en 1) aprobar los talleres, 2)
-aprobar los trabajos prácticos, 3) aprobar el parcial y 4) aprobar el trabajo
-práctico final. Cada una de estas instancias de evaluación tiene su propio
-recuperatorio. Para realizar el trabajo práctico final, es necesario tener
-aprobado la parte práctica de la materia. La nota definitiva de la materia
-será la que surja teniendo en cuenta el parcial individual y del trabajo
-práctico final grupal.
+El régimen de aprobación de la materia consiste en aprobar 14 talleres (uno
+por cada clase práctica) y aprobar el trabajo práctico final. Cada una de
+estas instancias de evaluación tiene su propio recuperatorio. Para realizar el
+trabajo práctico final, es necesario tener aprobados los talleres de la
+materia.
 
   - **Vías de comunicación**
 
