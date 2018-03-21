@@ -52,7 +52,7 @@ Joaquín Arribas
  _nacho692 at gmail.com_  
   
 ![Federico
-Hosen](https://campus.exactas.uba.ar/pluginfile.php/79541/course/section/13100/mister_x.png)
+Hosen](https://campus.exactas.uba.ar/pluginfile.php/79541/course/section/13100/fhosen.jpg)
 |  
 Federico Hosen  
  _federico.hosen at gmail.com_ |
