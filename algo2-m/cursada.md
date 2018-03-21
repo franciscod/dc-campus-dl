@@ -60,7 +60,7 @@ lapiceras, etc. de reserva para evitar inconvenientes.
 
 Las otras 8/9 instancias de evaluación serán trabajos prácticos, a saber:
 
-  - **Talleres** (5/6 instancias de implementación de estructuras de datos en C++)
+  - **Talleres** (4 instancias de implementación de estructuras de datos en C++)
   - **TP1** (Programación en C++)
   - **TP2** (Diseño y elección de estructuras)
   - **TP3** (Implementación)
