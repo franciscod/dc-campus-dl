@@ -10,8 +10,8 @@ talleres de carácter obligatorio.
 
 **Clases**
 
-Teóricas : **Jueves: 17:00 a 22:00 hs**  
-Practicas : **Martes: 17:00 a 22:00 hs**  
+Teóricas : **Jueves: 18:00 a 20:00 hs**  
+Practicas : **Martes: 17:00 a 21:00 hs**  
 (salvo excepciones - consultar el **calendario** )
 
 Los medios de comunicación serán la lista de alumnos y de docentes, la primera
