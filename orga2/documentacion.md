@@ -8,9 +8,9 @@ Estos manuales fueron obtenidos del sitio web de Intel para desarrolladores
 PDF. Para verlos, es necesario el [Acrobat
 Reader](http://www.adobe.com/products/acrobat/readstep.html).
 
-    - [Intel® 64 and IA-32 Architectures Software Developer's Manual Volume 1: Basic Architecture](http://download.intel.com/products/processor/manual/253665.pdf)
-    - [Intel® 64 and IA-32 Architectures Software Developer's Manual Volume 2: Instruction Set Reference, A-Z](http://download.intel.com/products/processor/manual/325383.pdf)
-    - [Intel® 64 and IA-32 Architectures Software Developer's Manual Volume 3: System Programming Guide](http://download.intel.com/products/processor/manual/325384.pdf)
+    - [Intel® 64 and IA-32 Architectures Software Developer's Manual Volume 1: Basic Architecture](https://software.intel.com/sites/default/files/managed/a4/60/253665-sdm-vol-1.pdf)
+    - [Intel® 64 and IA-32 Architectures Software Developer's Manual Volume 2: Instruction Set Reference, A-Z](https://software.intel.com/sites/default/files/managed/a4/60/325383-sdm-vol-2abcd.pdf)
+    - [Intel® 64 and IA-32 Architectures Software Developer's Manual Volume 3: System Programming Guide](https://software.intel.com/sites/default/files/managed/a4/60/325384-sdm-vol-3abcd.pdf)
   - ### NASM
 
     - [Documentación de NASM](http://nasm.sourceforge.net/doc/nasmdoc0.html)
