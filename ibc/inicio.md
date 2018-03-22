@@ -5,8 +5,8 @@
 
  **Horario** : Miércoles de 14 a 18hs.
 
-Otorga 3 **(tres) puntos** , tanto para la Licenciatura y 2(dos) para el
-Doctorado en Ciencias de la Computacion.
+Otorga **3 (tres) puntos** , tanto para la **Licenciatura** como para el
+**Doctorado** en Ciencias de la Computacion.
 
 **Aprobación** : Promocional. La nota se conforma con un 60% que aporta la
 resolución de una práctica de ejercicios y el 40% restante según la
