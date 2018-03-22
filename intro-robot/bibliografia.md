@@ -1,13 +1,7 @@
 # Bibliografía
 ([fuente](https://campus.exactas.uba.ar/course/view.php?id=1028&section=7))
 ---
-[  
-![Marcar este tema como el tema
-actual](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/i/marker)](https://campus.exactas.uba.ar/course/view.php?id=1028&section=12&sesskey=8I6l3Ji0yt&marker=12
-"Marcar este tema como el tema actual")  
-[![Ocultar
-tema](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/i/hide)](https://campus.exactas.uba.ar/course/view.php?id=1028&section=12&sesskey=8I6l3Ji0yt&hide=12
-"Ocultar tema")
+### Bibliografía
 
   - "Getting Started with Arduino", Massimo Banzi, O'Reilly, 2011.
   - “Introduction to autonomous mobile robots”, Siegwart, Roland, Illah Reza Nourbakhsh, Davide Scaramuzza. MIT press, 2011.

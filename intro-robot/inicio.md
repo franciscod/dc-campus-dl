@@ -3,7 +3,7 @@
 ---
 ### Inicio
 
- **Descripción general de la materia**
+### Descripción general de la materia
 
 **Objetivos**
 
