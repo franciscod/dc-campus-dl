@@ -5,3 +5,5 @@
 
   - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Igualdad de Género - GENEX Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=59985)
 
+  - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Teórica nr. 2: Secuencias Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=60009)
+
