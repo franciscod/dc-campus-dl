@@ -1,33 +1,23 @@
 # Docentes
 ([fuente](https://campus.exactas.uba.ar/course/view.php?id=1100&section=7))
 ---
-  - **  
-Teórica**
+  - **Teórica**
+    - Diego Fernández Slezak (Profesor)
 
-      - Marcelo Risk (Profesor)
-
-![Marcelo Risk](https://www.dc.uba.ar/materias/oc1/2017/c2/docentes/mrisk.jpg)
-
-  - **Práctica**
-      - Leopoldo Taravilse (Jefe de trabajos prácticos)
-
-##### ![Leopoldo
+> > ##### ![Leopoldo
 Taravilse](https://www.dc.uba.ar/materias/oc1/2017/c2/docentes/person.jpg)
 
-      - Alexis Tcach (Jefe de trabajos prácticos)
+  - **Práctica**
+    - Matías López y Rosenfeld (Jefe de trabajos prácticos)
 
-##### ![Alexis
-Tcach](https://www.dc.uba.ar/materias/oc1/2017/c2/docentes/person.jpg)
+> > ##### ![Leopoldo
+Taravilse](https://www.dc.uba.ar/materias/oc1/2017/c2/docentes/person.jpg)
 
-      - Paula Verghelet (Ayudante de 1era)
-![Paula](https://www.dc.uba.ar/materias/oc1/2017/c2/docentes/pverghelet.jpg/image_mini)
-
-  - ##### 
+      - Andrea Manna (Ayudante de 1era)
+      - ##### ![Leopoldo Taravilse](https://www.dc.uba.ar/materias/oc1/2017/c2/docentes/person.jpg)
 
       - Verónica Coy (Ayudante de 2da)
-
-##### ![Verónica
-Coy](https://www.dc.uba.ar/materias/oc1/2017/c2/docentes/vcoy.jpg)
+  - ##### ![Verónica Coy](https://www.dc.uba.ar/materias/oc1/2017/c2/docentes/vcoy.jpg)
 
       - Gustavo Hurovich (Ayudante de 2da)
 

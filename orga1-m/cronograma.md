@@ -3,9 +3,10 @@
 ---
 # Cronograma
 
+Proximamente
+
 # Evaluaciones:
 
-  - Parcial: 8 de junio de 2017
-  - Recuperatorio del parcial: 6 de julio de 2017
-  - 
+  - Parcial: 21 de junio de 2018
+  - Recuperatorio del parcial: 5 de julio de 2018
 
