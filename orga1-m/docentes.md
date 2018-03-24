@@ -12,7 +12,7 @@ pict](https://www.dc.uba.ar/materias/oc1/2017/c2/docentes/person.jpg)
 ![mlopez](https://campus.exactas.uba.ar/pluginfile.php/85821/course/section/14040/mlopez.jpg)
 
     - Andrea Manna (Ayudante de primera)  
-![No pict](https://www.dc.uba.ar/materias/oc1/2017/c2/docentes/person.jpg)
+![](https://campus.exactas.uba.ar/pluginfile.php/85821/course/section/14040/Andrea1Chico.JPG)
 
     - Verónica Coy (Ayudante de segunda)  
 ![No pict](https://www.dc.uba.ar/materias/oc1/2017/c2/docentes/person.jpg)
