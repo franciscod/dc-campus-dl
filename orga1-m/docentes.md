@@ -4,45 +4,26 @@
   - **Teórica**
     - Diego Fernández Slezak (Profesor)
 
-> > ##### ![Leopoldo
-Taravilse](https://www.dc.uba.ar/materias/oc1/2017/c2/docentes/person.jpg)
+> > ##### ![No
+pict](https://www.dc.uba.ar/materias/oc1/2017/c2/docentes/person.jpg)
 
   - **Práctica**
-    - Matías López y Rosenfeld (Jefe de trabajos prácticos)
+    - Matías López y Rosenfeld (Jefe de trabajos prácticos)  
+![mlopez](https://campus.exactas.uba.ar/pluginfile.php/85821/course/section/14040/mlopez.jpg)
 
-> > ##### ![Leopoldo
-Taravilse](https://www.dc.uba.ar/materias/oc1/2017/c2/docentes/person.jpg)
+    - Andrea Manna (Ayudante de primera)  
+![No pict](https://www.dc.uba.ar/materias/oc1/2017/c2/docentes/person.jpg)
 
-      - Andrea Manna (Ayudante de 1era)
-      - ##### ![Leopoldo Taravilse](https://www.dc.uba.ar/materias/oc1/2017/c2/docentes/person.jpg)
+    - Verónica Coy (Ayudante de segunda)  
+![No pict](https://www.dc.uba.ar/materias/oc1/2017/c2/docentes/person.jpg)
 
-      - Verónica Coy (Ayudante de 2da)
-  - ##### ![Verónica Coy](https://www.dc.uba.ar/materias/oc1/2017/c2/docentes/vcoy.jpg)
+    - Alejandro Grosso (Ayudante de Segunda)  
+![No pict](https://www.dc.uba.ar/materias/oc1/2017/c2/docentes/person.jpg)
 
-      - Gustavo Hurovich (Ayudante de 2da)
+    - Darío Ocles (Ayudante de Segunda)  
+![Dario
+Ocles](https://campus.exactas.uba.ar/pluginfile.php/85821/course/section/14040/13340124_10154257035707156_563951304877614517_o%20copy.jpeg)
 
-##### ![Gustavo
-Hurovich](https://www.dc.uba.ar/materias/oc1/2017/c2/docentes/gush.jpg)
-
-      - Ignacio Lebrero (Ayudante de 2da)
-
-##### ![Ignacio
-Lebrero](https://www.dc.uba.ar/materias/oc1/2017/c2/docentes/person.jpg)
-
-      - Juan Manuel Ortíz de Zárate (Ayudante de 2da)
-
-##### ![Juan Manuel Ortíz de
-Zárate](https://www.dc.uba.ar/materias/oc1/2017/c2/docentes/person.jpg)
-
-      - Martín Ventura (Ayudante de 2da)
-
-##### ![Martín
-Ventura](https://www.dc.uba.ar/materias/oc1/2017/c2/docentes/martin.jpg)
-
-## Listas de mail
-
-  - Existen dos listas de mail de la materia: docentes y alumnos.
-  - Tener en cuenta que en la lista de docentes figuran únicamente los docentes de la materia, en cambio, en la de alumnos figuran tanto docentes como alumnos.
-  - Docentes: orga1-doc(a)dc.uba.ar
-  - Alumnos: orga1-alu(a)dc.uba.ar
+    - Peter Romachov (Ayudante de Segunda)  
+![No pict](https://www.dc.uba.ar/materias/oc1/2017/c2/docentes/person.jpg)
 
