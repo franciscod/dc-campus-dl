@@ -5,7 +5,7 @@
     - Diego Fernández Slezak (Profesor)
 
 > > ##### ![No
-pict](https://www.dc.uba.ar/materias/oc1/2017/c2/docentes/person.jpg)
+pict](https://campus.exactas.uba.ar/pluginfile.php/85821/course/section/14040/37836362351_f39c940b78_z.jpg)
 
   - **Práctica**
     - Matías López y Rosenfeld (Jefe de trabajos prácticos)  
