@@ -21,5 +21,8 @@ Ignacio Chiapella
 
 Daniel Foguelman
 
+  
+**Ayudantes de Segunda**
+
 Santiago Iriarte
 

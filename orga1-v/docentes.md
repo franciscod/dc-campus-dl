@@ -17,6 +17,6 @@
 
   - Existen dos listas de mail de la materia: docentes y alumnos.
   - Tener en cuenta que en la lista de docentes figuran únicamente los docentes de la materia, en cambio, en la de alumnos figuran tanto docentes como alumnos.
-  - Docentes: orga1-doc(a)dc.uba.ar
-  - Alumnos: orga1-alu(a)dc.uba.ar
+  - Docentes: orga1-tt-doc(a)dc.uba.ar
+  - Alumnos: orga1-tt-alu(a)dc.uba.ar
 

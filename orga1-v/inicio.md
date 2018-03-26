@@ -18,9 +18,13 @@ Los medios de comunicación serán la lista de alumnos y de docentes, la primera
 para comunicación interna entre ustedes y la segunda para comunicarse con
 nosotros.
 
-Lista de Alumnos: **orga1-alu** **(a)** **dc.uba.ar**
+Lista de Alumnos: **orga1-tt-alu** **(a)** **dc.uba.ar**
 
-Lista de Docentes: **orga1-doc(a)dc.uba.ar**
+Lista de Docentes: **orga1-tt-doc(a)dc.uba.ar**
+
+****Tendremos asiganada el Aula 2 para ambos días y el labo turing para cuando
+haga falta. Ver el calendario para esos días, pero en principio serán los días
+de taller.
 
 El régimen de evaluación corresponderá a un parcial y talleres. Para aprobar
 los trabajos prácticos de la materia se deberá aprobar el parcial (o su
