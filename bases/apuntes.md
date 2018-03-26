@@ -1,9 +1,7 @@
 # Apuntes
 ([fuente](https://campus.exactas.uba.ar/course/view.php?id=1001&section=9))
 ---
-  - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) ApunteSQL.pdf  Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=53876)
-
-  - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) ApunteModelizacion.pdf  Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=53879)
-
-  - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Cartilla de Notación DER Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=53882)
+  1. [Apunte de DER](https://campus.exactas.uba.ar/pluginfile.php/79733/course/section/13205/ApunteModelizacion.pdf%20.pdf)
+  2. [Cartilla Notación DER](https://campus.exactas.uba.ar/pluginfile.php/79733/course/section/13205/Cartilla%20de%20Notaci%C3%B3n%20DER.pdf)
+  3. [Apunte SQL](https://campus.exactas.uba.ar/pluginfile.php/79733/course/section/13205/%20ApunteSQL.pdf%20.pdf)
 
