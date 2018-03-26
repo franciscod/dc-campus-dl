@@ -11,3 +11,7 @@ En este archivo encontrarán gran parte de la clase del día de la fecha.
 
   - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Segunda clase teórica. Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=60054)
 
+  - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Enunciado TP1 Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=60175) 94.7Kb documento PDF
+
+  - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) TerceraClaseTeórica Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=60177)
+
