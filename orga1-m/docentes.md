@@ -15,7 +15,8 @@ pict](https://campus.exactas.uba.ar/pluginfile.php/85821/course/section/14040/37
 ![](https://campus.exactas.uba.ar/pluginfile.php/85821/course/section/14040/Andrea1Chico.JPG)
 
     - Verónica Coy (Ayudante de segunda)  
-![No pict](https://www.dc.uba.ar/materias/oc1/2017/c2/docentes/person.jpg)
+![Veronica
+Coy](https://campus.exactas.uba.ar/pluginfile.php/85821/course/section/14040/vcoy.jpg)
 
     - Alejandro Grosso (Ayudante de Segunda)  
 ![No pict](https://www.dc.uba.ar/materias/oc1/2017/c2/docentes/person.jpg)
