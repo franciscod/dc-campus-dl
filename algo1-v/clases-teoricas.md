@@ -5,3 +5,5 @@
 
   - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Teórica 2: Secuencias Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=52682)
 
+  - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Teórica 3: Transformación de estados Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=52683)
+
