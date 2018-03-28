@@ -1,18 +1,11 @@
 # Clases
 ([fuente](https://campus.exactas.uba.ar/course/view.php?id=998&section=4))
 ---
-### Clases Teóricas
+  - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Clase práctica 1 - Hola Mundo Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=60318)
 
-Pendiente.
+  - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Clase práctica 2 - Pila y convención C Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=60319)
 
-### Clases Prácticas
+  - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Clase práctica 4 - Memoria Dinámica Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=60314)
 
-  - [Clase 01 - Hola Mundo](https://campus.exactas.uba.ar/pluginfile.php/79633/course/section/12857/2018_01_hola_mundo.pdf "Clase 01 - Hola Mundo")
-  - [Clase 02 - Pila / Interacción C](https://campus.exactas.uba.ar/pluginfile.php/79633/course/section/12857/2018_02_pila_convencion_c.pdf "Clase 02 - Pila / Interacción C")
-
-### Charlas
-
-Pendiente.
-
-  - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Clase Práctica 4 - Memoria Dinámica Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=60314)
+  - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/archive) Clase práctica 4 - Memoria Dinámica (archivos)](https://campus.exactas.uba.ar/mod/resource/view.php?id=60320)
 
