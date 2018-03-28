@@ -11,3 +11,7 @@
 
   - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/archive) Clase práctica 4 - Memoria Dinámica (archivos)](https://campus.exactas.uba.ar/mod/resource/view.php?id=60320)
 
+  - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Clase Teórica 1 - Arquitectura Básica del Procesador Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=60335)
+
+  - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Clase Teórica - Herramientas de Desarrollo Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=60336)
+
