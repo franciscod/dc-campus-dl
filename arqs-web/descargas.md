@@ -5,3 +5,5 @@
 
   - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) 20-03-2018 - Clase de Presentación Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=60103) documento PDF
 
+  - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) 27-03-2018 - Arquitecturas de Software y Redes Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=60356)
+
