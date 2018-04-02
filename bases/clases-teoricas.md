@@ -14,7 +14,7 @@ Artículos recomendados
     - Factor, P. "Primary Key Primer for SQL Server", artículo en página web, 2013.
   2. Clase 23/Marzo/2018: Vinculación Diagrama Entidad Relación / Diseño de la Base de Datos Relacional 
     - Vinculación DER/Diseño BDs Relacional: Capítulo 9 Elmasri/Navathe - Fundamentals of Database Systems, 6th Ed., Pearson, 2011
-  3. Clase 03/Abril/2018: Álgebra Relacional / Cálculo Relacional de Tuplas
+  3. Clase 04/Abril/2018: Álgebra Relacional / Cálculo Relacional de Tuplas
     - Álgebra Relacional: Capítulo 6 (hasta 6.5 inclusive) Elmasri/Navathe - Fundamentals of Database Systems, 6th Ed., Pearson, 2011
     - Cálculo Relacional de Tuplas: Capítulo 8 (a partir de 8.6 inclusive) Fundamentals of Database Systems, 7th Ed., Pearson, 2015
     - Cálculo Relacional de Tuplas: Capìtulo 3 (a partir de 3.8 inclusive) Ullman - Principles of Database and Knowledge Base Systems, Computer Science Press, 1988.
