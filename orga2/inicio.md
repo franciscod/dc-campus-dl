@@ -90,7 +90,7 @@ Para darle acceso a los docentes:
   4. Dirigirse abajo a la sección "Members -> Add a new member to..."
   5. En donde dice "search for members" agregar a cada uno de los docentes, **en role seleccionar "Reporter"** y luego presionar "Add to project"  
 Los usuarios de los docentes son:  
-@dgonzalez  
+@dmarquez  
 @mcerrutti  
 @jpimas  
 @jcaccav  
