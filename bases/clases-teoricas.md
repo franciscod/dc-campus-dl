@@ -1,7 +1,9 @@
 # Clases teóricas
 ([fuente](https://campus.exactas.uba.ar/course/view.php?id=1001&section=1))
 ---
-## **Clases Teóricas**
+## **[Clases
+Teóricas](https://campus.exactas.uba.ar/mod/folder/view.php?id=60453 "Clases
+Teóricas")**
 
   1. Clase 21/Marzo/2018: Introducción y Diagrama Entidad Relación (DER) 
     - Introducción: Capítulo 1 García Molina/Ullman/Widom - Database Systems: The Complete Book, Prentice Hall, 2nd Edition, 2008 (<http://infolab.stanford.edu/~ullman/dscb.html)>
@@ -20,4 +22,6 @@ Artículos recomendados
     - Cálculo Relacional de Tuplas: Capìtulo 3 (a partir de 3.8 inclusive) Ullman - Principles of Database and Knowledge Base Systems, Computer Science Press, 1988.
     - Presentación Álgebra Relacional <clase> <impresión>
     - Presentación Cálculo Relacional de Tuplas <clase> <impresión>
+
+  - [![Carpeta](https://campus.exactas.uba.ar/theme/image.php/magazine/folder/1462913092/icon) Clases Teóricas Carpeta](https://campus.exactas.uba.ar/mod/folder/view.php?id=60453)
 
