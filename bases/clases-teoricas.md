@@ -20,8 +20,8 @@ Artículos recomendados
     - Álgebra Relacional: Capítulo 6 (hasta 6.5 inclusive) Elmasri/Navathe - Fundamentals of Database Systems, 6th Ed., Pearson, 2011
     - Cálculo Relacional de Tuplas: Capítulo 8 (a partir de 8.6 inclusive) Fundamentals of Database Systems, 7th Ed., Pearson, 2015
     - Cálculo Relacional de Tuplas: Capìtulo 3 (a partir de 3.8 inclusive) Ullman - Principles of Database and Knowledge Base Systems, Computer Science Press, 1988.
-    - Presentación Álgebra Relacional <clase> <impresión>
-    - Presentación Cálculo Relacional de Tuplas <clase> <impresión>
+    - Presentación Álgebra Relacional [<clase>](https://campus.exactas.uba.ar/pluginfile.php/79733/course/section/12872/ct03-AlgebraRelacional.pdf) [<impresión>](https://campus.exactas.uba.ar/pluginfile.php/79733/course/section/12872/ct03-AlgebraRelacional-impresion.pdf)
+    - Presentación Cálculo Relacional de Tuplas [<clase>](https://campus.exactas.uba.ar/pluginfile.php/79733/course/section/12872/ct03-CalculoRelacionalDeTuplas.pdf) [<impresión>](https://campus.exactas.uba.ar/pluginfile.php/79733/course/section/12872/ct03-CalculoRelacionalDeTuplas-impresion.pdf)
 
   - [![Carpeta](https://campus.exactas.uba.ar/theme/image.php/magazine/folder/1462913092/icon) Clases Teóricas Carpeta](https://campus.exactas.uba.ar/mod/folder/view.php?id=60453)
 

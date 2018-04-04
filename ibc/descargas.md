@@ -7,3 +7,7 @@
 
   - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Artículo para ejercicio sobre sistema de toma de decisiones. Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=60347)
 
+  - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Tercera Clase. Primera Parte. Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=60454)
+
+  - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Tercera Clase. Segunda Parte. Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=60455)
+
