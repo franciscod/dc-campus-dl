@@ -8,9 +8,9 @@ Evolución histórica de la computadora
   - [Representación de la información](https://campus.exactas.uba.ar/mod/resource/view.php?id=53513 "Representación de la información")
   - [Lógica digital](https://campus.exactas.uba.ar/mod/resource/view.php?id=53514 "Lógica Digital")
   - [Arquitectura del CPU](https://campus.exactas.uba.ar/mod/resource/view.php?id=53515 "Arquitectura del CPU")
-  - Introducción a la [Microarquitectura](https://campus.exactas.uba.ar/mod/resource/view.php?id=53495 "Microarquitectura")
+  - Introducción a la Microarquitectura
   - Memoria
   - Entrada / Salida
   - Interrupciones
-  - [Buses](https://campus.exactas.uba.ar/mod/resource/view.php?id=53518 "Buses")
+  - Buses
 

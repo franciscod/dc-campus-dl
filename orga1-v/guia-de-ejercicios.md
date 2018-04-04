@@ -7,13 +7,3 @@
 
   - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Arquitectura del CPU Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=53515)
 
-  - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Diseño de ISA Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=53516)
-
-  - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Entrada/Salida Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=53517)
-
-  - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Buses Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=53518)
-
-  - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Microarquitectura del CPU Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=53519)
-
-  - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Memoria Caché Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=53520)
-

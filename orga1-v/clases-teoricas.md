@@ -9,15 +9,3 @@
 
   - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) ISA - Conjunto de instrucciones de la arquitectura Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=53491)
 
-  - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Entradas/Salidas Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=53492)
-
-  - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Arduino Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=53493)
-
-  - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Buses Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=53494)
-
-  - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Microarquitectura Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=53495)
-
-  - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Cache y memoria Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=53496)
-
-  - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Conversión A-D y D-A Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=53497)
-
