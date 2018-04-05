@@ -4,4 +4,6 @@
   1. [Apunte de DER](https://campus.exactas.uba.ar/pluginfile.php/79733/course/section/13205/ApunteModelizacion.pdf)
   2. [Cartilla Notación DER](https://campus.exactas.uba.ar/pluginfile.php/79733/course/section/13205/CartillaNotaci%C3%B3nDER.pdf)
   3. [Apunte SQL](https://campus.exactas.uba.ar/pluginfile.php/79733/course/section/13205/ApunteSQL.pdf)
+  4. [Cartilla Notación AR](https://campus.exactas.uba.ar/pluginfile.php/79733/course/section/13205/CartillaNotacionAR.pdf)
+  5. [Cartilla Notación CRT](https://campus.exactas.uba.ar/pluginfile.php/79733/course/section/13205/CartillaNotacionCRT.pdf)
 
