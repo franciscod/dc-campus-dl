@@ -5,3 +5,5 @@
 
   - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Práctica 1 - Programación funcional Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=53423)
 
+  - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Práctica 2 - Cálculo Lambda Tipado Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=53424)
+
