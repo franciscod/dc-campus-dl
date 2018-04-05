@@ -17,3 +17,5 @@ En este archivo encontrarán gran parte de la clase del día de la fecha.
 
   - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/archive) Ejercicios Clase 3 + ejemplo de parámetros por consola Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=60185)
 
+  - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Ejercicios Clase 4 Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=60482)
+
