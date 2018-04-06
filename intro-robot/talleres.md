@@ -7,3 +7,5 @@
 
   - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Taller 3: Actuación Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=60410)
 
+  - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Taller 4: Comportamientos Reactivos Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=60518)
+
