@@ -9,3 +9,5 @@
 
   - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Clase 4: Actuación Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=60424)
 
+  - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Clase 5: Comportamientos reactivos Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=60522)
+
