@@ -3,8 +3,6 @@
 ---
 # Cronograma
 
-Proximamente
-
 # Evaluaciones:
 
   - Parcial: 21 de junio de 2018
