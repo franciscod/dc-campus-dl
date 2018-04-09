@@ -19,3 +19,5 @@
 
   - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/archive) labo03-Codigo Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=60592)
 
+  - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Taller Vectores Entrada Salida IMPRIMIBLE Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=60594)
+
