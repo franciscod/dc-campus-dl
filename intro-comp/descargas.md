@@ -21,3 +21,5 @@ En este archivo encontrarán gran parte de la clase del día de la fecha.
 
   - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) CuartaClaseRepaso Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=60499)
 
+  - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Pasaje de parámetros Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=60596)
+
