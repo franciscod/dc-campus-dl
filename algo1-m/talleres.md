@@ -1,9 +1,9 @@
 # Talleres
 ([fuente](https://campus.exactas.uba.ar/course/view.php?id=987&section=9))
 ---
-  - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/archive) Laboratorio 01 Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=59700)
+  - [![Carpeta](https://campus.exactas.uba.ar/theme/image.php/magazine/folder/1462913092/icon) Laboratorio 02 Carpeta](https://campus.exactas.uba.ar/mod/folder/view.php?id=60136)
 
-  - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/archive) Labo02 Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=60137)
+  - [![Carpeta](https://campus.exactas.uba.ar/theme/image.php/magazine/folder/1462913092/icon) Laboratorio 03 Carpeta](https://campus.exactas.uba.ar/mod/folder/view.php?id=60573)
 
-  - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Introducción a Latex Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=60157)
+  - [![Carpeta](https://campus.exactas.uba.ar/theme/image.php/magazine/folder/1462913092/icon) Laboratorio 01 Carpeta](https://campus.exactas.uba.ar/mod/folder/view.php?id=60575)
 
