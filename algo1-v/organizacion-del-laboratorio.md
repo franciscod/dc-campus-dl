@@ -3,10 +3,11 @@
 ---
 **Proyectos**  
 Se deberán realizar dos proyectos y cada proyecto tendrá su recuperatorio. Al
-comienzo del proyecto se difundirá y se explicará en clase el enunciado.
-También se comunicará la fecha y hora en que los grupos deben entregar la
-solución y rendir su coloquio. Pasado ese momento los trabajos de los grupos
-que no hayan hecho la entrega serán considerados no aprobados.  
+comienzo del proyecto se difundirá y se explicará en clase el
+[enunciado](https://campus.exactas.uba.ar/mod/resource/view.php?id=52680
+"Enunciado"). También se comunicará la fecha y hora en que los grupos deben
+entregar la solución y rendir su coloquio. Pasado ese momento los trabajos de
+los grupos que no hayan hecho la entrega serán considerados no aprobados.  
   
 Para la fecha de entrega del recuperatorio regirán las mismas condiciones que
 para la primera etapa. Los grupos deberán entregar el TP original y el TP con
