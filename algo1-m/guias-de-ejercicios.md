@@ -3,3 +3,5 @@
 ---
   - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Práctica 1 - Lógica Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=60076)
 
+  - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Práctica 2 - Secuencias y Cuantificadores Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=60623)
+
