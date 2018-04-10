@@ -19,3 +19,5 @@
 
   - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Clase Práctica 6 - Ejercicios Enteros (Repaso) Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=60394)
 
+  - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Clase Práctica 7 - Introducción a SIMD Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=60616)
+
