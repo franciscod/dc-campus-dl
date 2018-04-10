@@ -11,10 +11,11 @@ programación dinámica.
   
 
 **Grafos** Definiciones básicas: adyacencia, grado de un nodo, isomorfismos,
-caminos, conexión, etc. Grafos bipartitos. Arboles: caracterización, árboles
-orientados, árbol generador. Enumeración. Grafos eulerianos y hamiltonianos.
-Planaridad. Coloreo. Número cromático. Matching, conjunto independiente,
-recubrimiento. Recubrimiento de aristas y vértices.
+caminos, conexión, etc. Grafos bipartitos. Arboles: caracterización,
+[árboles](https://campus.exactas.uba.ar/mod/resource/view.php?id=53297
+"Árboles") orientados, árbol generador. Enumeración. Grafos eulerianos y
+hamiltonianos. Planaridad. Coloreo. Número cromático. Matching, conjunto
+independiente, recubrimiento. Recubrimiento de aristas y vértices.
 
 **Algoritmos en grafos y aplicaciones** Representación de un grafo en la
 computadora: matrices de incidencia y adyacencia, listas. Algoritmos de
