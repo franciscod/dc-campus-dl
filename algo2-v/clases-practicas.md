@@ -7,3 +7,7 @@
 
   - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Recursión avanzada y TADs con comportamiento automático Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=53214)
 
+  - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Recursión ultimate Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=53215)
+
+  - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) TADs en 2 niveles Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=53216)
+
