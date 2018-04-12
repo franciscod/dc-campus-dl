@@ -23,3 +23,7 @@ En este archivo encontrarán gran parte de la clase del día de la fecha.
 
   - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Pasaje de parámetros Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=60596)
 
+  - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Quinta Clase-Ejercicio-Escorpion Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=60788)
+
+  - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/sourcecode) Programa del Juego Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=60789)
+
