@@ -23,3 +23,7 @@
 
   - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Clase Práctica 8 - SIMD: Pack/Unpack, Saturación, Comparación, Máscaras Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=60726)
 
+  - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Clase Teórica 2 - Microarquitectura, Introducción Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=60815)
+
+  - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Clase Práctica 9 - Shuffle y Conversiones Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=60816)
+
