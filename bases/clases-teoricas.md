@@ -22,6 +22,9 @@ Artículos recomendados
     - Cálculo Relacional de Tuplas: Capìtulo 3 (a partir de 3.8 inclusive) Ullman - Principles of Database and Knowledge Base Systems, Computer Science Press, 1988.
     - Presentación Álgebra Relacional [<clase>](https://campus.exactas.uba.ar/pluginfile.php/79733/course/section/12872/ct03-AlgebraRelacional.pdf) [<impresión>](https://campus.exactas.uba.ar/pluginfile.php/79733/course/section/12872/ct03-AlgebraRelacional-impresion.pdf)
     - Presentación Cálculo Relacional de Tuplas [<clase>](https://campus.exactas.uba.ar/pluginfile.php/79733/course/section/12872/ct03-CalculoRelacionalDeTuplas.pdf) [<impresión>](https://campus.exactas.uba.ar/pluginfile.php/79733/course/section/12872/ct03-CalculoRelacionalDeTuplas-impresion.pdf)
+  4. Clase 13/Abril/2018: Normalización Parte 1/2
+    - Normalización 1era. Parte: Capítulo 15 (hasta 15.5 inclusive) Elmasri/Navathe - Fundamentals of Database Systems, 6th Ed., Pearson, 2011
+    - Presentacion Normalización 1/2 [<clase>](https://campus.exactas.uba.ar/pluginfile.php/79733/course/section/12872/ct04-Normalizacion.pdf) [<impresión>](https://campus.exactas.uba.ar/pluginfile.php/79733/course/section/12872/ct04-Normalizacion-impresion.pdf)
 
   - [![Carpeta](https://campus.exactas.uba.ar/theme/image.php/magazine/folder/1462913092/icon) Clases Teóricas Carpeta](https://campus.exactas.uba.ar/mod/folder/view.php?id=60453)
 
