@@ -5,3 +5,5 @@
 
   - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Guía Práctica 2 - Secuencias y cuantificadores Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=52672)
 
+  - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Guía Práctica 3 - Especificación de problemas Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=52673)
+
