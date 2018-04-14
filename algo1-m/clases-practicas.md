@@ -5,3 +5,5 @@
 
   - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Clase Práctica 02 - Secuencias Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=60537)
 
+  - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Clase Práctica 03 - Especificación Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=60865)
+
