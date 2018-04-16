@@ -33,3 +33,5 @@ En este archivo encontrarán gran parte de la clase del día de la fecha.
 
   - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Clase6-Especificación Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=60913)
 
+  - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Clase6-EjerciciosDeEspecificación Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=60932)
+
