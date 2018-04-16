@@ -23,3 +23,5 @@
 
   - [![Carpeta](https://campus.exactas.uba.ar/theme/image.php/magazine/folder/1462913092/icon) Laboratorio 4 Carpeta](https://campus.exactas.uba.ar/mod/folder/view.php?id=60884)
 
+  - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/archive) labo04-debugging Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=60885)
+
