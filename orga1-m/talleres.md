@@ -3,3 +3,7 @@
 ---
   - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/archive) Taller 1 - Logica Digital Combinatorios Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=60371) 135.9Kb
 
+  - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/archive) Taller 2 - Logica Digital Secuenciales Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=60947) 111.3Kb
+
+  - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/markup) Taller 2 - Logica Digital Secuenciales - ALU Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=60948) 9.7Kb
+
