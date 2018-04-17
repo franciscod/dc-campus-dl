@@ -7,3 +7,5 @@
 
   - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Lógica Digital - Combinatorios: Planilla Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=53523)
 
+  - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Lógica Digital - Secuenciales: Enunciado Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=53524)
+
