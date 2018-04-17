@@ -9,3 +9,9 @@
 
   - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Lógica Digital - Secuenciales: Enunciado Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=53524)
 
+  - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/markup) Lógica Digital - Secuenciales: Circuito  Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=53525)
+
+  - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/markup) Lógica Digital - Secuenciales: ALU Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=53526)
+
+  - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Lógica Digital - Secuenciales: Planilla Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=53528)
+
