@@ -9,5 +9,7 @@
 
   - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Taller 4: Comportamientos Reactivos Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=60518)
 
-  - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Taller 5: Intro ROS y V-REP Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=60797)
+  - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Taller 5: Introducción a ROS y V-REP Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=60797)
+
+  - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Taller 6: Modelo diferencial y odometría Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=60973)
 
