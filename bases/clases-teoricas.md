@@ -26,5 +26,9 @@ Artículos recomendados
     - Normalización 1era. Parte: Capítulo 15 (hasta 15.5 inclusive) Elmasri/Navathe - Fundamentals of Database Systems, 6th Ed., Pearson, 2011
     - Presentacion Normalización 1/2 [<clase>](https://campus.exactas.uba.ar/pluginfile.php/79733/course/section/12872/ct04-Normalizacion.pdf) [<impresión>](https://campus.exactas.uba.ar/pluginfile.php/79733/course/section/12872/ct04-Normalizacion-impresion.pdf)
 
+  5. Clase 20/Abril/2018: Normalización Parte 2/2
+    - Normalización 2da. Parte: Capítulo 15 (hasta 15.3 inclusive) Fundamentals of Database Systems, 7th Ed., Pearson, 2015
+    - Presentacion Normalización 2/2 [<clase>](https://campus.exactas.uba.ar/pluginfile.php/79733/course/section/12872/ct05-Normalizacion2.pdf) [<impresión>](https://campus.exactas.uba.ar/pluginfile.php/79733/course/section/12872/ct05-Normalizacion2-impresion.pdf)
+
   - [![Carpeta](https://campus.exactas.uba.ar/theme/image.php/magazine/folder/1462913092/icon) Clases Teóricas Carpeta](https://campus.exactas.uba.ar/mod/folder/view.php?id=60453)
 
