@@ -65,6 +65,8 @@ Los trabajos prácticos y sus recuperatorios tienen 2 notas: I y A.
 Aquellos alumnos que obtengan más de 70 en ambos parciales (no recuperatorios)
 y aprueben los trabajos prácticos en primera instancia podrán realizar un
 trabajo práctico final en lugar de rendir examen final.  
+En <https://www-2.dc.uba.ar/trabajosFinalesOrga2/> se puede encontrar los
+trabajos prácticos finales realizandos cuatrimestres anteriores.  
   
 
 ### Condiciones para la entrega del TP
