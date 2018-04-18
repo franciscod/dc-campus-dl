@@ -13,3 +13,7 @@
 
   - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Clase 6: Introducción a ROS Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=60823)
 
+  - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Clase 7: Sistemas de coordenadas, transformaciones y rotaciones Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=61058)
+
+  - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Clase 8: Cinemática directa, inversa y odometría Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=61059)
+
