@@ -7,3 +7,5 @@
 
   - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Teórica: Complejidad de Algoritmos Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=60721)
 
+  - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Teorica: Diseño de TADs Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=61078)
+
