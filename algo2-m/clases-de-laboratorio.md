@@ -13,3 +13,7 @@
 
   - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/archive) Templates - Ejercitación Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=60717)
 
+  - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Memoria dinámica - Slides Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=61020)
+
+  - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/archive) Memoria dinámica - Ejercitación (primer taller obligatorio) Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=61021)
+
