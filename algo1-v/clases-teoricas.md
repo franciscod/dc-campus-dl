@@ -11,3 +11,7 @@
 
   - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Teórica 5: Teorema del invariante Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=52685)
 
+  - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Teórica 6: Testing estructural Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=52686)
+
+  - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Teórica 7: Buenas prácticas de programación Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=52687)
+

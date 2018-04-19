@@ -11,5 +11,5 @@
 
   - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Teórica 04: Precondición más débil (Parte 1/2) - Rev. 11/4/2018 Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=60534)
 
-  - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Teórica 05: Precondición más débil (Parte 2/2) - Rev. 11/4/18 Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=60536)
+  - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Teórica 05: Precondición más débil (Parte 2/2) - Rev. 19/4/18 Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=60536)
 
