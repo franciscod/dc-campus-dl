@@ -7,3 +7,7 @@
 
   - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Árboles Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=53297)
 
+  - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Camino mínimo Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=53298)
+
+  - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Camino mínimo (con animación) Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=53299)
+

@@ -21,14 +21,15 @@ independiente, recubrimiento. Recubrimiento de aristas y vértices.
 computadora: matrices de incidencia y adyacencia, listas. Algoritmos de
 búsqueda en grafos: BFS, DFS, A*. Mínimo árbol generador, algoritmos de Prim y
 Kruskal. Arboles ordenados: códigos unívocamente descifrables. Algoritmos para
-detección de circuitos. Algoritmos para encontrar el camino mínimo en un
-grafo: Dijkstra, Ford, Dantzig. Planificación de procesos: PERT/CPM.
-Algoritmos heurísticos: ejemplos. Nociones de evaluación de heurísticas y de
-técnicas metaheurísticas. Algoritmos aproximados. Heurísticas para el problema
-del viajante de comercio. Algoritmos para detectar planaridad. Algoritmos para
-coloreo de grafos. Algoritmos para encontrar el flujo máximo en una red: Ford
-y Fulkerson. Matching: algoritmos para correspondencias máximas en grafos
-bipartitos. Otras aplicaciones.
+detección de circuitos. Algoritmos para encontrar el [camino
+mínimo](https://campus.exactas.uba.ar/mod/resource/view.php?id=53298 "Camino
+mínimo") en un grafo: Dijkstra, Ford, Dantzig. Planificación de procesos:
+PERT/CPM. Algoritmos heurísticos: ejemplos. Nociones de evaluación de
+heurísticas y de técnicas metaheurísticas. Algoritmos aproximados. Heurísticas
+para el problema del viajante de comercio. Algoritmos para detectar
+planaridad. Algoritmos para coloreo de grafos. Algoritmos para encontrar el
+flujo máximo en una red: Ford y Fulkerson. Matching: algoritmos para
+correspondencias máximas en grafos bipartitos. Otras aplicaciones.
 
 **Problemas NP-completos** Problemas tratables e intratables. Problemas de
 decisión. P y NP. Maquinas de Turing no determinísticas. Problemas NP-
