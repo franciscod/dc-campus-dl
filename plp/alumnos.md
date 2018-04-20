@@ -5,7 +5,7 @@
 Funcional](https://campus.exactas.uba.ar/mod/folder/view.php?id=60418 "TP de
 Programación Funcional")**
 
-**Última modificación:** 04/04/2018
+**Última modificación:** 20/04/2018
 
 Versión actual de los grupos para el [TP de Programación
 Funcional](https://campus.exactas.uba.ar/mod/folder/view.php?id=60418 "TP de
@@ -64,5 +64,9 @@ González Benítez, Juan Alberto | 324/14
 ---  
 Jaratz, Tomás | 59/15  
 Pastore, Tomás Ariel | 266/15  
-Radunsky, Andrés | 395/15
+Radunsky, Andrés | 395/15  
+  
+**Grupo allein**  
+---  
+López, Mauro Javier | 55/13
 
