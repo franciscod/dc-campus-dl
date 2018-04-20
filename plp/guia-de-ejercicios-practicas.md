@@ -7,3 +7,5 @@
 
   - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Práctica 2 - Cálculo Lambda Tipado Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=53424)
 
+  - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Práctica 3 - Inferencia de Tipos Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=53425)
+
