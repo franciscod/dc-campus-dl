@@ -13,3 +13,5 @@
 
   - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Álgebra de ordenes y análisis de complejidad Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=53217)
 
+  - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Clase de Rep y Abs Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=53218)
+
