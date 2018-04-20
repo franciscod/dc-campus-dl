@@ -29,3 +29,7 @@
 
   - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Clase Práctica 9 - Shuffle y Conversiones Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=60816)
 
+  - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Clase Práctica 12 - SIMD: Ejercicios Integradores Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=61197)
+
+  - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/archive) Clase Práctica 12 - SIMD: Ejercicios Resueltos (Ejercicios Integradores) Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=61198)
+
