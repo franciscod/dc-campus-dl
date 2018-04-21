@@ -7,3 +7,5 @@
 
   - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Práctica 3 - Especificación Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=60866)
 
+  - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Práctica 4 - Precondición más débil en SmallLang Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=61208)
+

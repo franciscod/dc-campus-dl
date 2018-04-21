@@ -39,3 +39,7 @@ En este archivo encontrarán gran parte de la clase del día de la fecha.
 
   - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Clase 7-Correctitud Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=61084)
 
+  - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Práctica Especificación Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=61206)
+
+  - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Práctica Correctitud Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=61207)
+
