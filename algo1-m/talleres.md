@@ -27,3 +27,9 @@
 
   - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Clase Debugging Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=60894)
 
+  - [![Carpeta](https://campus.exactas.uba.ar/theme/image.php/magazine/folder/1462913092/icon) Labratorio 5 Carpeta](https://campus.exactas.uba.ar/mod/folder/view.php?id=61233)
+
+  - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/archive) Taller de invariantes Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=61234)
+
+  - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Clase taller de ciclos Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=61235)
+
