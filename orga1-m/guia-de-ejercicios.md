@@ -7,3 +7,5 @@
 
   - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Práctica 2 - Lógica Digital - Parte B Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=60619)
 
+  - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Práctica 3 - Arquitectura del CPU Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=61253)
+
