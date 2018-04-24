@@ -11,3 +11,5 @@
 
   - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) T05 - Arquitectura 1/2 Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=60822)
 
+  - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) T06 - Arquitectura 2/2 Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=61271)
+
