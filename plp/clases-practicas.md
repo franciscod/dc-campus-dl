@@ -9,3 +9,9 @@
 
   - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Cálculo Lambda 2 Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=53392)
 
+  - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Taller de inferencia - transparencias Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=53394)
+
+  - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Taller de inferencia - machete Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=53395)
+
+  - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/archive) Taller de inferencia - esqueleto Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=53397)
+
