@@ -110,7 +110,7 @@ class MoodleDL:
         topics = res.html.find('ul.topics > li.section')
         if len(topics) == 1:
             self.fetch_section_tab(res)
-            for a in res.html.find('.tabtree li a'):
+            for a in res.html.find('.nav-tabs li a'):
                 href = a.attrs.get('href')
                 if href:
                     self.fetch_section_tab(self._session.get(href))
@@ -143,7 +143,7 @@ class MoodleDL:
     def fetch_section_tab(self, res):
         if res.html.find('.errormessage'):
             return
-        title = res.html.find('.here span', first=True).text
+        title = res.html.find('.active span', first=True).text
         content = res.html.find('#region-main .content', first=True)
         self.fetch_section(res, title, content)
 
@@ -172,14 +172,14 @@ class MoodleDL:
             if content_disp:
                 cd = parse_headers(content_disp, relaxed=True)
                 return url, cd.filename_unsafe
-        
+
             # try 'regular' moodle resource download page
             a = res.html.find('object a', first=True)
             if a:
                 dl_url = href = a.attrs['href']
                 dl_name = href.split('/')[-1]
                 return dl_url, dl_name
-            
+
             # try resourceimage page
             img = res.html.find('img.resourceimage', first=True)
             if img:
