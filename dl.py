@@ -65,6 +65,7 @@ class MoodleDL:
                     break
                 sha1.update(data)
         digest = sha1.hexdigest()
+        digest = '"%s"' % digest
 
         if not digest == etag:
             print('Digest and ETag mismatch', filename, url)
