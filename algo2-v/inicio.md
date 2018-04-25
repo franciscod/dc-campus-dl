@@ -1,7 +1,7 @@
 # Inicio
 ([fuente](https://campus.exactas.uba.ar/course/view.php?id=990))
 ---
-### Inicio
+### [Inicio](https://campus.exactas.uba.ar/course/view.php?id=990&section=0)
 
 ¡Hola! Te damos la bienvenida a Algo 2.
 

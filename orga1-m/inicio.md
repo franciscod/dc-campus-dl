@@ -1,7 +1,7 @@
 # Inicio
 ([fuente](https://campus.exactas.uba.ar/course/view.php?id=1100))
 ---
-### Inicio
+### [Inicio](https://campus.exactas.uba.ar/course/view.php?id=1100&section=0)
 
 La materia consistirá en clases teóricas y practicas, junto con un conjunto de
 talleres de carácter obligatorio.
@@ -26,5 +26,5 @@ respectivo recuperatorio) y los talleres.
 
 La materia es correlativa de Algoritmos y Estructura de Datos I
 
-  - [![Foro](https://campus.exactas.uba.ar/theme/image.php/magazine/forum/1462913092/icon) Novedades Foro](https://campus.exactas.uba.ar/mod/forum/view.php?id=57524)
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/forum/1524598950/icon)Novedades Foro](https://campus.exactas.uba.ar/mod/forum/view.php?id=57524)
 

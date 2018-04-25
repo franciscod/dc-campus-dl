@@ -1,17 +1,19 @@
 # Talleres
 ([fuente](https://campus.exactas.uba.ar/course/view.php?id=997&section=6))
 ---
-  - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Lógica Digital - Combinatorios: Enunciado Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=53521)
+### [Talleres](https://campus.exactas.uba.ar/course/view.php?id=997&section=6)
 
-  - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/markup) Lógica Digital - Combinatorios: Circuito Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=53522)
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524598950/f/pdf-24)Lógica Digital - Combinatorios: Enunciado Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=53521)
 
-  - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Lógica Digital - Combinatorios: Planilla Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=53523)
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524598950/f/markup-24)Lógica Digital - Combinatorios: Circuito Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=53522)
 
-  - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Lógica Digital - Secuenciales: Enunciado Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=53524)
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524598950/f/pdf-24)Lógica Digital - Combinatorios: Planilla Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=53523)
 
-  - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/markup) Lógica Digital - Secuenciales: Circuito  Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=53525)
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524598950/f/pdf-24)Lógica Digital - Secuenciales: Enunciado Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=53524)
 
-  - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/markup) Lógica Digital - Secuenciales: ALU Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=53526)
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524598950/f/markup-24)Lógica Digital - Secuenciales: Circuito  Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=53525)
 
-  - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Lógica Digital - Secuenciales: Planilla Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=53528)
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524598950/f/markup-24)Lógica Digital - Secuenciales: ALU Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=53526)
+
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524598950/f/pdf-24)Lógica Digital - Secuenciales: Planilla Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=53528)
 

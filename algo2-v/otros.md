@@ -1,6 +1,8 @@
 # Otros
 ([fuente](https://campus.exactas.uba.ar/course/view.php?id=990&section=11))
 ---
+### [Otros](https://campus.exactas.uba.ar/course/view.php?id=990&section=11)
+
 ## Entorno completo para escribir algoritmos:
 
 <http://www.ctan.org/pkg/algorithm2e>
@@ -38,5 +40,5 @@ correcciones](https://www.dc.uba.ar/materias/aed2/2017/2c/tn/descargas/otros-
 files/clion-settings-correccion "Configuración de CLion para visualizar
 correcciones")
 
-  - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/archive) Carátula y paquetes de Latex para los TPs Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=53283)
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524598950/f/archive-24)Carátula y paquetes de Latex para los TPs Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=53283)
 

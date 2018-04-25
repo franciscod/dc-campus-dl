@@ -1,7 +1,7 @@
 # Inicio
 ([fuente](https://campus.exactas.uba.ar/course/view.php?id=989))
 ---
-### Inicio
+### [Inicio](https://campus.exactas.uba.ar/course/view.php?id=989&section=0)
 
 ¡Hola! Te damos la bienvenida a Algo 2.
 
@@ -45,5 +45,5 @@ oficial. Si no te inscribiste en la materia a través del sistema de
 inscripciones, **debés avisarle lo antes posible a los JTPs** para evitar
 problemas más adelante.
 
-  - [![Foro](https://campus.exactas.uba.ar/theme/image.php/magazine/forum/1462913092/icon) Novedades Foro](https://campus.exactas.uba.ar/mod/forum/view.php?id=51866)
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/forum/1524598950/icon) Novedades Foro](https://campus.exactas.uba.ar/mod/forum/view.php?id=51866)
 

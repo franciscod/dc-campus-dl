@@ -1,6 +1,9 @@
 # Bibliografía
 ([fuente](https://campus.exactas.uba.ar/course/view.php?id=987&section=4))
 ---
+###
+[Bibliografía](https://campus.exactas.uba.ar/course/view.php?id=987&section=4)
+
 The Science of Programming
 
 David Gries

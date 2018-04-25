@@ -1,6 +1,9 @@
 # Información
 ([fuente](https://campus.exactas.uba.ar/course/view.php?id=1010&section=2))
 ---
+###
+[Información](https://campus.exactas.uba.ar/course/view.php?id=1010&section=2)
+
 ## Objetivos
 
 Al finalizar el curso, se espera que el alumno pueda especificar y resolver,

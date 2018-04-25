@@ -1,11 +1,14 @@
 # Guía de ejercicios (prácticas)
 ([fuente](https://campus.exactas.uba.ar/course/view.php?id=995&section=8))
 ---
-  - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Práctica 0 - Repaso de programación funcional Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=53422)
+### [Guía de ejercicios
+(prácticas)](https://campus.exactas.uba.ar/course/view.php?id=995&section=8)
 
-  - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Práctica 1 - Programación funcional Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=53423)
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524598950/f/pdf-24)Práctica 0 - Repaso de programación funcional Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=53422)
 
-  - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Práctica 2 - Cálculo Lambda Tipado Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=53424)
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524598950/f/pdf-24)Práctica 1 - Programación funcional Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=53423)
 
-  - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Práctica 3 - Inferencia de Tipos Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=53425)
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524598950/f/pdf-24)Práctica 2 - Cálculo Lambda Tipado Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=53424)
+
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524598950/f/pdf-24)Práctica 3 - Inferencia de Tipos Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=53425)
 

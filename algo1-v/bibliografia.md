@@ -1,6 +1,9 @@
 # Bibliografía
 ([fuente](https://campus.exactas.uba.ar/course/view.php?id=991&section=12))
 ---
+###
+[Bibliografía](https://campus.exactas.uba.ar/course/view.php?id=991&section=12)
+
   - D. Gries, _The Science of Programming._ Springer Verlag,  
 1981.
 

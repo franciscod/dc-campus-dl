@@ -1,6 +1,9 @@
 # Bibliografía
 ([fuente](https://campus.exactas.uba.ar/course/view.php?id=995&section=15))
 ---
+###
+[Bibliografía](https://campus.exactas.uba.ar/course/view.php?id=995&section=15)
+
 ## Fundamentos de lenguajes de programación
 
   - Essentials of Programming Languages. Friedman, Wand, Haynes. MIT Press, 2001. [Sitio del libro](http://mitpress.mit.edu/catalog/item/default.asp?ttype=2&tid=4676).

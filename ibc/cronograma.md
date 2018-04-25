@@ -1,6 +1,9 @@
 # Cronograma
 ([fuente](https://campus.exactas.uba.ar/course/view.php?id=1027&section=1))
 ---
+###
+[Cronograma](https://campus.exactas.uba.ar/course/view.php?id=1027&section=1)
+
 Dia | Tema  
 ---|---  
 21/3/2018 | Introducción a las bases de datos relacionales, teoría de modelos
@@ -27,5 +30,6 @@ aproximaciones y algoritmos de reescritura.
 modelos probabilísticos computacionalmente tratables. Manejo de incertidumbre
 en lenguajes ontológicos. Lenguajes alternativos: Description Logics.  
 20/6/2018 | Integración utilizando técnicas de Voting and Social Choice.  
-27/6/2018 | Presentación de papers seleccionados.
+27/6/2018 | Presentación de papers seleccionados.  
+  
 

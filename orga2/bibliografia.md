@@ -1,6 +1,9 @@
 # Bibliografía
 ([fuente](https://campus.exactas.uba.ar/course/view.php?id=998&section=10))
 ---
+###
+[Bibliografía](https://campus.exactas.uba.ar/course/view.php?id=998&section=10)
+
 Bibliografía de Organización del Computador II
 
 ### Arquitectura Intel 64

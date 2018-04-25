@@ -1,7 +1,10 @@
 # Trabajos prácticos
 ([fuente](https://campus.exactas.uba.ar/course/view.php?id=991&section=8))
 ---
-  - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/archive) Template del TPE Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=52679)
+### [Trabajos
+prácticos](https://campus.exactas.uba.ar/course/view.php?id=991&section=8)
 
-  - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Enunciado Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=52680)
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524598950/f/archive-24)Template del TPE Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=52679)
+
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524598950/f/pdf-24)Enunciado Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=52680)
 

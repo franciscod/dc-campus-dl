@@ -1,6 +1,9 @@
 # Organización de la práctica
 ([fuente](https://campus.exactas.uba.ar/course/view.php?id=991&section=3))
 ---
+### [Organización de la
+práctica](https://campus.exactas.uba.ar/course/view.php?id=991&section=3)
+
 En las clases de la Práctica se resolverán ejercicios en el pizarrón y se
 recibirán consultas sobre las guías. Cada guía tiene una fecha sugerida de
 terminación. Después de esa fecha, las clases de la Práctica tratarán el

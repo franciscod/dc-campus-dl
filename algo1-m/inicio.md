@@ -1,7 +1,7 @@
 # Inicio
 ([fuente](https://campus.exactas.uba.ar/course/view.php?id=987))
 ---
-### Inicio
+### [Inicio](https://campus.exactas.uba.ar/course/view.php?id=987&section=0)
 
 ## Buen día!
 
@@ -24,7 +24,7 @@ laboratorio.
   - Miércoles 9 a 14: Teórica (E24)
   - Viernes 9 a 14: Práctica (E24)
 
-  - [![Foro](https://campus.exactas.uba.ar/theme/image.php/magazine/forum/1462913092/icon) Novedades Foro](https://campus.exactas.uba.ar/mod/forum/view.php?id=51570)
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/forum/1524598950/icon)Novedades Foro](https://campus.exactas.uba.ar/mod/forum/view.php?id=51570)
 
-  - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/jpeg) good-morning.jpg Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=53974)
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524598950/f/jpeg-24)good-morning.jpg Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=53974)
 

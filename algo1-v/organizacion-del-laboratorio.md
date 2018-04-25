@@ -1,7 +1,10 @@
 # Organización del laboratorio
 ([fuente](https://campus.exactas.uba.ar/course/view.php?id=991&section=4))
 ---
-**Proyectos**  
+### [Organización del
+laboratorio](https://campus.exactas.uba.ar/course/view.php?id=991&section=4)
+
+ **Proyectos**  
 Se deberán realizar dos proyectos y cada proyecto tendrá su recuperatorio. Al
 comienzo del proyecto se difundirá y se explicará en clase el
 [enunciado](https://campus.exactas.uba.ar/mod/resource/view.php?id=52680

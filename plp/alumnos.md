@@ -1,7 +1,9 @@
 # Alumnos
 ([fuente](https://campus.exactas.uba.ar/course/view.php?id=995&section=4))
 ---
-**Grupos para el[TP de Programación
+### [Alumnos](https://campus.exactas.uba.ar/course/view.php?id=995&section=4)
+
+ **Grupos para el[TP de Programación
 Funcional](https://campus.exactas.uba.ar/mod/folder/view.php?id=60418 "TP de
 Programación Funcional")**
 
@@ -68,5 +70,6 @@ Radunsky, Andrés | 395/15
   
 **Grupo allein**  
 ---  
-López, Mauro Javier | 55/13
+López, Mauro Javier | 55/13  
+  
 

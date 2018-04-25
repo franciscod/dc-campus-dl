@@ -1,15 +1,18 @@
 # Clases taller
 ([fuente](https://campus.exactas.uba.ar/course/view.php?id=991&section=10))
 ---
-  - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Guia taller Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=59691)
+### [Clases
+taller](https://campus.exactas.uba.ar/course/view.php?id=991&section=10)
 
-  - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Laboratorio 00 Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=59692)
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524598950/f/pdf-24)Guia taller Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=59691)
 
-  - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/archive) Laboratorio 01 Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=60166)
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524598950/f/pdf-24)Laboratorio 00 Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=59692)
 
-  - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/archive) Laboratorio 02 Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=60593)
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524598950/f/archive-24)Laboratorio 01 Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=60166)
 
-  - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/archive) Laboratorio 03 Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=60936)
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524598950/f/archive-24)Laboratorio 02 Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=60593)
 
-  - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/archive) Laboratorio 04 Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=61269)
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524598950/f/archive-24)Laboratorio 03 Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=60936)
+
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524598950/f/archive-24)Laboratorio 04 Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=61269)
 

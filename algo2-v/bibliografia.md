@@ -1,6 +1,9 @@
 # Bibliografía
 ([fuente](https://campus.exactas.uba.ar/course/view.php?id=990&section=1))
 ---
+###
+[Bibliografía](https://campus.exactas.uba.ar/course/view.php?id=990&section=1)
+
 ## Especificación
 
   - **José Luis Balcazar** , _Programación Metódica_ , McGraw-Hill, 1993.

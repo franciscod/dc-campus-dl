@@ -1,7 +1,7 @@
 # Inicio
 ([fuente](https://campus.exactas.uba.ar/course/view.php?id=997))
 ---
-### Inicio
+### [Inicio](https://campus.exactas.uba.ar/course/view.php?id=997&section=0)
 
 La materia consistirá en clases teóricas y practicas, junto con un conjunto de
 talleres de carácter obligatorio.
@@ -30,5 +30,5 @@ El régimen de evaluación corresponderá a un parcial y talleres. Para aprobar
 los trabajos prácticos de la materia se deberá aprobar el parcial (o su
 respectivo recuperatorio) y los talleres.
 
-  - [![Foro](https://campus.exactas.uba.ar/theme/image.php/magazine/forum/1462913092/icon) Novedades Foro](https://campus.exactas.uba.ar/mod/forum/view.php?id=51970)
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/forum/1524598950/icon)Novedades Foro](https://campus.exactas.uba.ar/mod/forum/view.php?id=51970)
 

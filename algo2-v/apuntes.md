@@ -1,9 +1,11 @@
 # Apuntes
 ([fuente](https://campus.exactas.uba.ar/course/view.php?id=990&section=7))
 ---
-  - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Apunte de Especificación Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=53267)
+### [Apuntes](https://campus.exactas.uba.ar/course/view.php?id=990&section=7)
 
-  - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Apunte de TADs Básicos Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=53266)
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524598950/f/pdf-24)Apunte de Especificación Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=53267)
 
-  - [![Archivo](https://campus.exactas.uba.ar/theme/image.php/magazine/core/1462913092/f/pdf) Apunte de Diseño Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=53268)
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524598950/f/pdf-24)Apunte de TADs Básicos Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=53266)
+
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524598950/f/pdf-24)Apunte de Diseño Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=53268)
 

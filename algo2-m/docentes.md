@@ -1,6 +1,9 @@
 # Docentes
 ([fuente](https://campus.exactas.uba.ar/course/view.php?id=989&section=13))
 ---
+###
+[Docentes](https://campus.exactas.uba.ar/course/view.php?id=989&section=13)
+
 ## Profesores  
   
 ---  
@@ -56,5 +59,6 @@ Nicolás Pazos Méndez
 Seijo](https://campus.exactas.uba.ar/pluginfile.php/79480/course/section/13006/jonno_v0.jpg)
 |  
 Jonathan Seijo  
- _jon.seijo at gmail.com_ |
+ _jon.seijo at gmail.com_ |  
+  
 

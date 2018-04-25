@@ -1,6 +1,8 @@
 # Programa
 ([fuente](https://campus.exactas.uba.ar/course/view.php?id=992&section=1))
 ---
+### [Programa](https://campus.exactas.uba.ar/course/view.php?id=992&section=1)
+
 **Algoritmos** Definición de algoritmo. Modelos de computación: modelo RAM,
 Máquina de Turing. Complejidad, definición, complejidad en el peor caso, en el
 caso promedio. Algoritmos de tiempo polinomial y no polinomial. Límite

@@ -1,6 +1,9 @@
 # Organización de la materia
 ([fuente](https://campus.exactas.uba.ar/course/view.php?id=1028&section=2))
 ---
+### [Organización de la
+materia](https://campus.exactas.uba.ar/course/view.php?id=1028&section=2)
+
   - **Cursada**
 
 La materia se va a dictar los días miércoles y viernes en el horario de 10 a

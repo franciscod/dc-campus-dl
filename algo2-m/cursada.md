@@ -1,7 +1,9 @@
 # Cursada
 ([fuente](https://campus.exactas.uba.ar/course/view.php?id=989&section=3))
 ---
-**Esta página contiene información importante acerca de la organización de la
+### [Cursada](https://campus.exactas.uba.ar/course/view.php?id=989&section=3)
+
+ **Esta página contiene información importante acerca de la organización de la
 materia: el sistema de calificaciones, el régimen de aprobación y promoción,
 la normativa para la presentación de los trabajos prácticos, el uso del correo
 electrónico para realizar consultas, etc.**
@@ -85,7 +87,7 @@ en el enunciado particular de cada TP, las siguientes normas generales:
   - En las entregas de recuperatorios **debe reutilizarse la misma carátula de la primera instancia, y debe/n agregarse como apéndice el/los documento/s que se haya/n entregado en primera instancia**.
   - Como parte del trabajo **deben** **documentarse las suposiciones y decisiones tomadas** **más importantes**.
   - **Todas** las páginas del documento deben estar numeradas al pie; además, debe detallarse la cantidad total de páginas.
-  - Las implementaciones deben realizarse en **ANSI C++** estándar (98, 03, 11, 14 o 17), de modo que compilen –sin errores ni warnings– con cualquier compilador reciente. El software necesario está disponible en los laboratorios del Departamento. Debe ser posible regenerar el programa ejecutable a partir de las fuentes utilizando alguno de los compiladores allí instalados. Se recomienda el uso de GCC en Linux, y de MinGW (<http://mingw.org/)> en Windows.
+  - Las implementaciones deben realizarse en **ANSI C++** estándar (98, 03, 11, 14 o 17), de modo que compilen –sin errores ni warnings– con cualquier compilador reciente. El software necesario está disponible en los laboratorios del Departamento. Debe ser posible regenerar el programa ejecutable a partir de las fuentes utilizando alguno de los compiladores allí instalados. Se recomienda el uso de GCC en Linux, y de MinGW (<http://mingw.org/>) en Windows.
 
 Además, para ahorrar papel se sugiere (no es obligatorio):
 

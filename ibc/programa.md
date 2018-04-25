@@ -1,7 +1,10 @@
 # Programa
 ([fuente](https://campus.exactas.uba.ar/course/view.php?id=1027&section=2))
 ---
-**Objetivos** :
+###
+[Programa](https://campus.exactas.uba.ar/course/view.php?id=1027&section=2)
+
+ **Objetivos** :
 
   - Introducir los fundamentos lógicos de formalismos utilizados en la representación del conocimiento y razonamiento en bases de conocimiento, con un enfoque en ontologías para la Web Semántica. Los temas principales son la integración del conocimiento – que da lugar a incertidumbre e inconsistencia – y la complejidad computacional asociada a los problemas de razonamiento y respuesta a consultas en este entorno.
   - Dotar a los futuros profesionales de un buen entendimiento de las herramientas disponibles para el manejo de información que no puede ser explotada adecuadamente en bases de datos tradicionales. Esto es especialmente relavante dada la gran proliferación de lenguajes y formalismos (sobre todo aquellos relacionados con la Web) que existe en la actualidad.

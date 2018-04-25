@@ -1,6 +1,9 @@
 # Bibliografía
 ([fuente](https://campus.exactas.uba.ar/course/view.php?id=992&section=3))
 ---
+###
+[Bibliografía](https://campus.exactas.uba.ar/course/view.php?id=992&section=3)
+
 ## Observaciones
 
 En cada práctico se mencionan las referencias que mejor se ajustan a la forma

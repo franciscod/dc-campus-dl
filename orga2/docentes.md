@@ -1,6 +1,9 @@
 # Docentes
 ([fuente](https://campus.exactas.uba.ar/course/view.php?id=998&section=11))
 ---
+###
+[Docentes](https://campus.exactas.uba.ar/course/view.php?id=998&section=11)
+
 **Profesor** |  
 ---|---  
 Alejandro Furfaro  
@@ -34,5 +37,6 @@ Natalia Pesaresi
 Pesaresi](https://campus.exactas.uba.ar/pluginfile.php/79633/course/section/13026/foto_natalia.jpg)  
 Ezequiel Barrios  
 <ezequiel at barrios dot com dot ar> | ![Foto de perfil Ezequiel
-Barrios](https://campus.exactas.uba.ar/pluginfile.php/79633/course/section/13026/foto_ezequiel.jpg)
+Barrios](https://campus.exactas.uba.ar/pluginfile.php/79633/course/section/13026/foto_ezequiel.jpg)  
+  
 

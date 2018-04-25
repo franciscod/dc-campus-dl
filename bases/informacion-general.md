@@ -1,7 +1,10 @@
 # Información general
 ([fuente](https://campus.exactas.uba.ar/course/view.php?id=1001&section=7))
 ---
-**Objetivo**  
+### [Información
+general](https://campus.exactas.uba.ar/course/view.php?id=1001&section=7)
+
+ **Objetivo**  
 El curso proveerá las herramientas teórico/prácticas para el correcto diseño,
 programación y utilización de Bases de Datos que soporten distintos tipos de
 aplicaciones. Se presentarán distintas técnicas de procesamiento de consultas

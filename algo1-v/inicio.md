@@ -1,7 +1,7 @@
 # Inicio
 ([fuente](https://campus.exactas.uba.ar/course/view.php?id=991))
 ---
-### Inicio
+### [Inicio](https://campus.exactas.uba.ar/course/view.php?id=991&section=0)
 
 Descripción general de la materia
 
@@ -38,5 +38,5 @@ La materia es cuatrimestral, con una carga horaria de 15 horas semanales: 5
 horas de clases teóricas, 5 horas de clases prácticas y 5 horas de trabajo en
 laboratorio.
 
-  - [![Foro](https://campus.exactas.uba.ar/theme/image.php/magazine/forum/1462913092/icon) Novedades Foro](https://campus.exactas.uba.ar/mod/forum/view.php?id=51933)
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/forum/1524598950/icon)Novedades Foro](https://campus.exactas.uba.ar/mod/forum/view.php?id=51933)
 

@@ -1,7 +1,7 @@
 # Inicio
 ([fuente](https://campus.exactas.uba.ar/course/view.php?id=998))
 ---
-### Inicio
+### [Inicio](https://campus.exactas.uba.ar/course/view.php?id=998&section=0)
 
 Bienvenidxs a la página de inicio de la materia **Organización del Computador
 II**.
@@ -115,5 +115,5 @@ les pedirá:
 
 **Calendario de la materia**
 
-  - [![Foro](https://campus.exactas.uba.ar/theme/image.php/magazine/forum/1462913092/icon) Novedades Foro](https://campus.exactas.uba.ar/mod/forum/view.php?id=51972)
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/forum/1524598950/icon) Novedades Foro](https://campus.exactas.uba.ar/mod/forum/view.php?id=51972)
 

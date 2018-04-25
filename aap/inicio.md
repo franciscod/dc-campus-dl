@@ -1,7 +1,7 @@
 # Inicio
 ([fuente](https://campus.exactas.uba.ar/course/view.php?id=1017))
 ---
-### Inicio
+### [Inicio](https://campus.exactas.uba.ar/course/view.php?id=1017&section=0)
 
 El análisis estático permite extraer propiedades sobre un programa antes de la
 ejecución real del mismo. Esta información puede ser luego utilizada para
@@ -34,5 +34,5 @@ técnicas se aplican a la verificación automática de software.
 Esta es la materia antiguamente conocida como **Análisis y Síntensis
 Automático de Programas**
 
-  - [![Foro](https://campus.exactas.uba.ar/theme/image.php/magazine/forum/1462913092/icon) Novedades Foro](https://campus.exactas.uba.ar/mod/forum/view.php?id=52573)
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/forum/1524598950/icon) Novedades Foro](https://campus.exactas.uba.ar/mod/forum/view.php?id=52573)
 

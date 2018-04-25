@@ -1,7 +1,7 @@
 # Inicio
 ([fuente](https://campus.exactas.uba.ar/course/view.php?id=1027))
 ---
-### Inicio
+### [Inicio](https://campus.exactas.uba.ar/course/view.php?id=1027&section=0)
 
  **Horario** : Miércoles de 14 a 18hs.
 
@@ -16,7 +16,7 @@ su presentación.
 **Prerequisitos** : Lógica y Computabilidad. Se recomienda también haber
 cursado Base de Datos aunque no es excluyente.
 
-  - [![Foro](https://campus.exactas.uba.ar/theme/image.php/magazine/forum/1462913092/icon) Inicio Foro](https://campus.exactas.uba.ar/mod/forum/view.php?id=53785)
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/forum/1524598950/icon)Inicio Foro](https://campus.exactas.uba.ar/mod/forum/view.php?id=53785)
 
 Novedades y anuncios
 

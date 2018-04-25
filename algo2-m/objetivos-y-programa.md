@@ -1,6 +1,9 @@
 # Objetivos y Programa
 ([fuente](https://campus.exactas.uba.ar/course/view.php?id=989&section=4))
 ---
+### [Objetivos y
+Programa](https://campus.exactas.uba.ar/course/view.php?id=989&section=4)
+
 ## Objetivos
 
   - Presentar los conceptos básicos que hacen a la solución algorítmica de problemas correcta y eficiente: especificación, diseño, implementación, complejidad de cómputo.

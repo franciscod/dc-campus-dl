@@ -1,12 +1,15 @@
 # Clases teóricas
 ([fuente](https://campus.exactas.uba.ar/course/view.php?id=1001&section=1))
 ---
-## **[Clases
+### [Clases
+teóricas](https://campus.exactas.uba.ar/course/view.php?id=1001&section=1)
+
+##  **[Clases
 Teóricas](https://campus.exactas.uba.ar/mod/folder/view.php?id=60453 "Clases
 Teóricas")**
 
   1. Clase 21/Marzo/2018: Introducción y Diagrama Entidad Relación (DER) 
-    - Introducción: Capítulo 1 García Molina/Ullman/Widom - Database Systems: The Complete Book, Prentice Hall, 2nd Edition, 2008 (<http://infolab.stanford.edu/~ullman/dscb.html)>
+    - Introducción: Capítulo 1 García Molina/Ullman/Widom - Database Systems: The Complete Book, Prentice Hall, 2nd Edition, 2008 (<http://infolab.stanford.edu/~ullman/dscb.html>)
     - Diagrama Entidad/Relación: Capítulos 7 y 8 Elmasri/Navathe - Fundamentals of Database Systems, 6th Ed., Pearson, 2011
 Artículos recomendados
 
@@ -29,6 +32,16 @@ Artículos recomendados
   5. Clase 20/Abril/2018: Normalización Parte 2/2
     - Normalización 2da. Parte: Capítulo 15 (hasta 15.3 inclusive) Fundamentals of Database Systems, 7th Ed., Pearson, 2015
     - Presentacion Normalización 2/2 [<clase>](https://campus.exactas.uba.ar/pluginfile.php/79733/course/section/12872/ct05-Normalizacion2.pdf) [<impresión>](https://campus.exactas.uba.ar/pluginfile.php/79733/course/section/12872/ct05-Normalizacion2-impresion.pdf)
+  6. Clase 27/Abril/2018: Transacciones. NoSQL.  
 
-  - [![Carpeta](https://campus.exactas.uba.ar/theme/image.php/magazine/folder/1462913092/icon) Clases Teóricas Carpeta](https://campus.exactas.uba.ar/mod/folder/view.php?id=60453)
+    - Transacciones: Capítulo 21 (hasta 21.3 inclusive) Elmasri/Navathe - Fundamentals of Database Systems, 6th Ed., Pearson, 2011.
+    - NoSQL - Introducción - Capítulo 1 Vaish - Getting Started with NoSQL, Packt, 2013.
+    - NoSQL - Taxonomia - Capítulo 4 McCreary/Kelly - Making Sense of NoSQL, Manning, 2014.
+    - NoSQL - Taxonomia - Capítulo 3 Vaish - Getting Started with NoSQL, Packt, 2013.
+    - NoSQL - Sharding y Replicación: Capítulo 5 Erl/Khattak/Buhler - Big Data Fundamentals, Prentice Hall, 2016.
+    - Presentación Transacciones [ <clase>](https://campus.exactas.uba.ar/pluginfile.php/79733/course/section/12872/ct06-Transacciones.pdf) [<impresión>](https://campus.exactas.uba.ar/pluginfile.php/79733/course/section/12872/ct06-Transacciones-impresion.pdf)
+    - Presentación NoSQL [<clase>](https://campus.exactas.uba.ar/pluginfile.php/79733/course/section/12872/ct06-NoSQL.pdf) [<impresión>](https://campus.exactas.uba.ar/pluginfile.php/79733/course/section/12872/ct06-NoSQL-impresion.pdf)  
+  
+
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/folder/1524598950/icon)Clases Teóricas Carpeta](https://campus.exactas.uba.ar/mod/folder/view.php?id=60453)
 

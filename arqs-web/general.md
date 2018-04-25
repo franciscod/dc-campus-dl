@@ -1,7 +1,7 @@
 # General
 ([fuente](https://campus.exactas.uba.ar/course/view.php?id=1060))
 ---
-### General
+### [General](https://campus.exactas.uba.ar/course/view.php?id=1060&section=0)
 
  **Arquitectura de Aplicaciones Web**
 
@@ -37,5 +37,5 @@ Los trabajos prácticos incluirán actividades de programación, análisis de
 tecnologías y presentación en clase del trabajo realizado (frente a los demás
 grupos).
 
-  - [![Foro](https://campus.exactas.uba.ar/theme/image.php/magazine/forum/1462913092/icon) Novedades Foro](https://campus.exactas.uba.ar/mod/forum/view.php?id=54828)
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/forum/1524598950/icon)Novedades Foro](https://campus.exactas.uba.ar/mod/forum/view.php?id=54828)
 

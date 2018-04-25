@@ -1,6 +1,9 @@
 # Información
 ([fuente](https://campus.exactas.uba.ar/course/view.php?id=1017&section=2))
 ---
+###
+[Información](https://campus.exactas.uba.ar/course/view.php?id=1017&section=2)
+
 Objetivos, pre-requisitos, programa de la Materia
 
 ## Objetivos
