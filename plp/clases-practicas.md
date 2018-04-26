@@ -12,6 +12,8 @@ prácticas](https://campus.exactas.uba.ar/course/view.php?id=995&section=6)
 
   - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524598950/f/pdf-24)Cálculo Lambda 2 Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=53392)
 
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524598950/f/pdf-24)Inferencia de tipos Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=53393) Subido 26/04/2018 14:27
+
   - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524598950/f/pdf-24)Taller de inferencia - transparencias Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=53394)
 
   - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524598950/f/pdf-24)Taller de inferencia - machete Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=53395)

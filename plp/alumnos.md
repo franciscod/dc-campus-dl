@@ -3,15 +3,11 @@
 ---
 ### [Alumnos](https://campus.exactas.uba.ar/course/view.php?id=995&section=4)
 
- **Grupos para el[TP de Programación
-Funcional](https://campus.exactas.uba.ar/mod/folder/view.php?id=60418 "TP de
-Programación Funcional")**
+ **Grupos para el TP de Programación Lógica**
 
-**Última modificación:** 20/04/2018
+**Última modificación:** 26/04/2018
 
-Versión actual de los grupos para el [TP de Programación
-Funcional](https://campus.exactas.uba.ar/mod/folder/view.php?id=60418 "TP de
-Programación Funcional").
+Versión actual de los grupos para el TP de Programación Lógica.
 
 Para modificar la composición de algún grupo, tienen que mandar mail a
 [Gabriela Steren](MailTo:gliynn86ARROBAgmailPUNTOcom) diciendo cuál sería el
@@ -36,7 +32,6 @@ Ríos Cuba, Kennedy Williams | 503/15
 ---  
 Tripodi, Guido Agustín | 843/10  
 Hernández, Nicolás Carlos | 122/13  
-Goldstein, Brian Uriel | 27/14  
   
 **Grupo Mattern Patching**  
 ---  
@@ -72,4 +67,5 @@ Radunsky, Andrés | 395/15
 ---  
 López, Mauro Javier | 55/13  
   
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/page/1524598950/icon)TP de Programación Funcional Página](https://campus.exactas.uba.ar/mod/page/view.php?id=61400)
 
