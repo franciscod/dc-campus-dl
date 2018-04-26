@@ -34,5 +34,5 @@ técnicas se aplican a la verificación automática de software.
 Esta es la materia antiguamente conocida como **Análisis y Síntensis
 Automático de Programas**
 
-  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/forum/1524598950/icon) Novedades Foro](https://campus.exactas.uba.ar/mod/forum/view.php?id=52573)
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/forum/1524752928/icon) Novedades Foro](https://campus.exactas.uba.ar/mod/forum/view.php?id=52573)
 

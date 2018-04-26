@@ -55,5 +55,5 @@ nunca ven.
 Para conocer las fechas de **exámenes** , ver la sección
 [Calendario](https://campus.exactas.uba.ar/course/view.php?id=995&section=12).
 
-  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/forum/1524598950/icon)Novedades Foro](https://campus.exactas.uba.ar/mod/forum/view.php?id=51967)
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/forum/1524752928/icon)Novedades Foro](https://campus.exactas.uba.ar/mod/forum/view.php?id=51967)
 

@@ -17,7 +17,7 @@ un artículo que se elige un mes antes de su presentación.
 **Prerequisitos** : Lógica y Computabilidad. Se recomienda también haber
 cursado Base de Datos aunque no es excluyente.
 
-  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/forum/1524598950/icon)Inicio Foro](https://campus.exactas.uba.ar/mod/forum/view.php?id=53785)
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/forum/1524752928/icon)Inicio Foro](https://campus.exactas.uba.ar/mod/forum/view.php?id=53785)
 
 Novedades y anuncios
 

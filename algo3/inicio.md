@@ -51,5 +51,5 @@ carga horaria
 
   - 4hs de clases teóricas, 4hs laboratorio, 4hs de clases prácticas.
 
-  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/forum/1524598950/icon)Novedades Foro](https://campus.exactas.uba.ar/mod/forum/view.php?id=51940)
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/forum/1524752928/icon)Novedades Foro](https://campus.exactas.uba.ar/mod/forum/view.php?id=51940)
 

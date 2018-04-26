@@ -37,5 +37,5 @@ Los trabajos prácticos incluirán actividades de programación, análisis de
 tecnologías y presentación en clase del trabajo realizado (frente a los demás
 grupos).
 
-  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/forum/1524598950/icon)Novedades Foro](https://campus.exactas.uba.ar/mod/forum/view.php?id=54828)
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/forum/1524752928/icon)Novedades Foro](https://campus.exactas.uba.ar/mod/forum/view.php?id=54828)
 

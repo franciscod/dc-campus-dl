@@ -4,11 +4,11 @@
 ### [Clases
 Prácticas](https://campus.exactas.uba.ar/course/view.php?id=987&section=6)
 
-  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524598950/f/pdf-24)Clase Práctica 01 - Logica Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=60075)
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Clase Práctica 01 - Logica Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=60075)
 
-  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524598950/f/pdf-24)Clase Práctica 02 - Secuencias Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=60537)
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Clase Práctica 02 - Secuencias Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=60537)
 
-  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524598950/f/pdf-24)Clase Práctica 03 - Especificación Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=60865)
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Clase Práctica 03 - Especificación Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=60865)
 
-  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524598950/f/pdf-24)Clase Práctica 04 - WP 1 Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=61134)
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Clase Práctica 04 - WP 1 Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=61134)
 

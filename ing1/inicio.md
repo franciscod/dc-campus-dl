@@ -32,5 +32,5 @@ Daniel Alvarez
 Teórico: Lunes y Jueves 18 a 20hs Aula 5  
 Práctico: Lunes y Jueves 20 a 22hs Aula 5
 
-  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/forum/1524598950/icon)Novedades Foro](https://campus.exactas.uba.ar/mod/forum/view.php?id=53972)
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/forum/1524752928/icon)Novedades Foro](https://campus.exactas.uba.ar/mod/forum/view.php?id=53972)
 

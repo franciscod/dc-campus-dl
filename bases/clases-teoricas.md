@@ -43,5 +43,5 @@ Artículos recomendados
     - Presentación NoSQL [<clase>](https://campus.exactas.uba.ar/pluginfile.php/79733/course/section/12872/ct06-NoSQL.pdf) [<impresión>](https://campus.exactas.uba.ar/pluginfile.php/79733/course/section/12872/ct06-NoSQL-impresion.pdf)  
   
 
-  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/folder/1524598950/icon)Clases Teóricas Carpeta](https://campus.exactas.uba.ar/mod/folder/view.php?id=60453)
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/folder/1524752928/icon)Clases Teóricas Carpeta](https://campus.exactas.uba.ar/mod/folder/view.php?id=60453)
 

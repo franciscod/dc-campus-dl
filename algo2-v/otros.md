@@ -40,5 +40,5 @@ correcciones](https://www.dc.uba.ar/materias/aed2/2017/2c/tn/descargas/otros-
 files/clion-settings-correccion "Configuración de CLion para visualizar
 correcciones")
 
-  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524598950/f/archive-24)Carátula y paquetes de Latex para los TPs Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=53283)
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/archive-24)Carátula y paquetes de Latex para los TPs Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=53283)
 

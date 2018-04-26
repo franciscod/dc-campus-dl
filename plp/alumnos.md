@@ -67,5 +67,5 @@ Radunsky, Andrés | 395/15
 ---  
 López, Mauro Javier | 55/13  
   
-  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/page/1524598950/icon)TP de Programación Funcional Página](https://campus.exactas.uba.ar/mod/page/view.php?id=61400)
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/page/1524752928/icon)TP de Programación Funcional Página](https://campus.exactas.uba.ar/mod/page/view.php?id=61400)
 

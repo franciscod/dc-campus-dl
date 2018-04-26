@@ -26,5 +26,5 @@ respectivo recuperatorio) y los talleres.
 
 La materia es correlativa de Algoritmos y Estructura de Datos I
 
-  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/forum/1524598950/icon)Novedades Foro](https://campus.exactas.uba.ar/mod/forum/view.php?id=57524)
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/forum/1524752928/icon)Novedades Foro](https://campus.exactas.uba.ar/mod/forum/view.php?id=57524)
 

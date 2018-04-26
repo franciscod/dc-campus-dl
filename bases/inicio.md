@@ -41,5 +41,5 @@ bddoc@dc.uba.ar
 En caso de encontrar errores en las Prácticas puede reportarlos
 bddoc@dc.uba.ar
 
-  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/forum/1524598950/icon)Novedades Foro](https://campus.exactas.uba.ar/mod/forum/view.php?id=52057)
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/forum/1524752928/icon)Novedades Foro](https://campus.exactas.uba.ar/mod/forum/view.php?id=52057)
 

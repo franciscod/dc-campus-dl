@@ -40,5 +40,5 @@ La materia es cuatrimestral, con una carga horaria de 10 horas semanales: 6
 horas de clases teórico-prácticas, 4 horas de clases de laboratorio y
 consultas.
 
-  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/forum/1524598950/icon)Novedades Foro](https://campus.exactas.uba.ar/mod/forum/view.php?id=53786)
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/forum/1524752928/icon)Novedades Foro](https://campus.exactas.uba.ar/mod/forum/view.php?id=53786)
 

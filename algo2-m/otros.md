@@ -41,5 +41,5 @@ LaTex con resaltado de sintaxis, existe el paquete listings:
 
 <http://www.ctan.org/pkg/listings>
 
-  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524598950/f/archive-24)Carátula y paquetes de Latex para los TPs Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=53203)
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/archive-24)Carátula y paquetes de Latex para los TPs Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=53203)
 

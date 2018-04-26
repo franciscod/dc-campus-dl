@@ -30,5 +30,5 @@ El régimen de evaluación corresponderá a un parcial y talleres. Para aprobar
 los trabajos prácticos de la materia se deberá aprobar el parcial (o su
 respectivo recuperatorio) y los talleres.
 
-  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/forum/1524598950/icon)Novedades Foro](https://campus.exactas.uba.ar/mod/forum/view.php?id=51970)
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/forum/1524752928/icon)Novedades Foro](https://campus.exactas.uba.ar/mod/forum/view.php?id=51970)
 

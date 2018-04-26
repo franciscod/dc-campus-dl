@@ -29,5 +29,5 @@ reforzado su plantel docente con un ayudante de primera y un ayudante de
 segunda más que lo habitual, para poder cubrir las necesidades de los alumnos
 adicionales.
 
-  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/forum/1524598950/icon)Novedades Foro](https://campus.exactas.uba.ar/mod/forum/view.php?id=52157)
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/forum/1524752928/icon)Novedades Foro](https://campus.exactas.uba.ar/mod/forum/view.php?id=52157)
 

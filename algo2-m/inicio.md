@@ -45,5 +45,5 @@ oficial. Si no te inscribiste en la materia a través del sistema de
 inscripciones, **debés avisarle lo antes posible a los JTPs** para evitar
 problemas más adelante.
 
-  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/forum/1524598950/icon) Novedades Foro](https://campus.exactas.uba.ar/mod/forum/view.php?id=51866)
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/forum/1524752928/icon) Novedades Foro](https://campus.exactas.uba.ar/mod/forum/view.php?id=51866)
 
