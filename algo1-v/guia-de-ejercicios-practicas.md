@@ -12,5 +12,5 @@
 
   - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Guía Práctica 4 - Precondición más débil en SmallLang Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=52674)
 
-  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Guía Práctica 5 - Demostración de corrección de ciclos en SmallLang Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=52675)
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Guía Práctica 5 - Demostración de corrección en SmallLang Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=52675)
 
