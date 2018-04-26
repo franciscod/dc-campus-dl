@@ -14,3 +14,9 @@
 
   - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524598950/f/pdf-24)Tercera Clase. Segunda Parte. Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=60455)
 
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524598950/f/pdf-24)Cuarta Clase Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=61389)
+
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524598950/f/pdf-24)Quinta Clase Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=61390)
+
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524598950/f/pdf-24)Ejercicios Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=61391)
+
