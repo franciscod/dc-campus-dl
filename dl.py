@@ -39,10 +39,17 @@ class MoodleDL:
 
         return self._session.post(url, *args, **kwargs)
 
+    def normalize_etag(self, etag):
+        if etag.startswith('W/"') and etag.endswith('"'):
+            return etag[3:-1]
+        if etag.startswith('"') and etag.endswith('"'):
+            return etag[1:-1]
+        return etag
+
     def etag_sha1_matches(self, url, filename):
         # assumes ETag is the SHA1 of the file
         res = self.head(url, allow_redirects=True)
-        etag = res.headers.get('ETag')
+        etag = self.normalize_etag(res.headers.get('ETag'))
 
         if not etag:
             for r in res.history:
@@ -65,7 +72,6 @@ class MoodleDL:
                     break
                 sha1.update(data)
         digest = sha1.hexdigest()
-        digest = '"%s"' % digest
 
         if not digest == etag:
             print('Digest and ETag mismatch', filename, url)
