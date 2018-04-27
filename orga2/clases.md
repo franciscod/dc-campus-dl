@@ -39,3 +39,11 @@
 
   - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Clase Teórica 3 - Microarquitectura, Introducción Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=60815)
 
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Clase Teórica 3 - Microarquitectura - El Sistema de Memoria Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=61868)
+
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Clase Teórica 4 - Microarquitectura - ILP (Paralelismo a Nivel de Instrucción) Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=61869)
+
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Clase Teórica 5 - Inicialización y Boot Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=61870)
+
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Clase Teórica 5 - Administración de Memoria en Modo Protegido - Segmentación Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=61871)
+
