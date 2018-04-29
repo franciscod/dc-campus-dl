@@ -8,4 +8,6 @@
   3. [Apunte SQL](https://campus.exactas.uba.ar/pluginfile.php/79733/course/section/13205/ApunteSQL.pdf)
   4. [Cartilla Notación AR](https://campus.exactas.uba.ar/pluginfile.php/79733/course/section/13205/CartillaNotacionAR.pdf)[](https://campus.exactas.uba.ar/pluginfile.php/79733/course/section/13205/CartillaNotacionAR.pdf)
   5. [Cartilla Notación CRT](https://campus.exactas.uba.ar/pluginfile.php/79733/course/section/13205/CartillaNotacionCRT.pdf)
+  6. [JsonSchema](https://campus.exactas.uba.ar/pluginfile.php/79733/course/section/13205/JsonSchema.pdf)
+  7. [Notación DID](https://campus.exactas.uba.ar/pluginfile.php/79733/course/section/13205/NotacionDID.pdf)
 
