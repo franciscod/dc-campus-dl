@@ -22,3 +22,5 @@ clases](https://campus.exactas.uba.ar/course/view.php?id=1028&section=3)
 
   - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Clase 9: Seguimiento de trayectorias a lazo abierto Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=61337)
 
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)clase10: Seguimiento de trayectorias a lazo cerrado Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=61960)
+

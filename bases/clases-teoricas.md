@@ -41,6 +41,13 @@ Artículos recomendados
     - NoSQL - Sharding y Replicación: Capítulo 5 Erl/Khattak/Buhler - Big Data Fundamentals, Prentice Hall, 2016.
     - Presentación Transacciones [ <clase>](https://campus.exactas.uba.ar/pluginfile.php/79733/course/section/12872/ct06-Transacciones.pdf) [<impresión>](https://campus.exactas.uba.ar/pluginfile.php/79733/course/section/12872/ct06-Transacciones-impresion.pdf)
     - Presentación NoSQL [<clase>](https://campus.exactas.uba.ar/pluginfile.php/79733/course/section/12872/ct06-NoSQL.pdf) [<impresión>](https://campus.exactas.uba.ar/pluginfile.php/79733/course/section/12872/ct06-NoSQL-impresion.pdf)  
+
+  7. Clase 04/Mayo/2018: Finite model theory - Teorema de Ehrenfeucht-Fraisse.   
+
+    - Libkin - Elements of finite model theory, Springer Verlag, 2012
+    - <http://www.cs.toronto.edu/~libkin/fmt/fmt.pdf>
+    - Ehrenfeucht-Fraïssé games, Math Explorers Club, Cornell Department of Mathematics.<http://www.math.cornell.edu/~mec/Summer2009/Raluca>
+    - Presentacion Teorema de Ehrenfeucht-Fraisse [<clase>](https://campus.exactas.uba.ar/pluginfile.php/79733/course/section/12872/ct07-FiniteModelTheory.pdf) [<impresión>](https://campus.exactas.uba.ar/pluginfile.php/79733/course/section/12872/ct07-FiniteModelTheory-impresion.pdf)   
   
 
   - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/folder/1524752928/icon)Clases Teóricas Carpeta](https://campus.exactas.uba.ar/mod/folder/view.php?id=60453)
