@@ -18,3 +18,5 @@
 
   - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Taller 7: Control a Lazo Abierto Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=61324)
 
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Taller 8: Control a Lazo Cerrado Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=61955)
+
