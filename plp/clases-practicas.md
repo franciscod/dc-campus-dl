@@ -20,5 +20,5 @@ prácticas](https://campus.exactas.uba.ar/course/view.php?id=995&section=6)
 
   - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Inferencia de tipos 1 Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=61824)
 
-  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Inferencia de tipos 2 Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=53393) Subido 26/04/2018 14:27
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Inferencia de tipos 2 Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=53393) Subido 26/04/2018 10:27
 
