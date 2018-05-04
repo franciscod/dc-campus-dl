@@ -12,3 +12,5 @@ Ejercicios](https://campus.exactas.uba.ar/course/view.php?id=987&section=7)
 
   - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Práctica 4 - Precondición más débil en SmallLang Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=61208)
 
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Práctica 5 - Demostración de corrección de ciclos en SmallLang Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=62027)
+
