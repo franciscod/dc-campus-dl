@@ -49,9 +49,13 @@ consultas.
 |  |  
 |  |  
 8 | 7 mayo | 10 mayo  
-| Teórica: Organización de computadoras | Introducción a Python(cont.)  
+| Teórica: Organización de computadoras | [Introducción a
+Python](https://campus.exactas.uba.ar/mod/resource/view.php?id=62148
+"Introducción a Python")(cont.)  
 | (brevísima introducción). | Ejercitación.  
-| Introducción a Python. |  
+| [Introducción a
+Python](https://campus.exactas.uba.ar/mod/resource/view.php?id=62148
+"Introducción a Python"). |  
 |  |  
 9 | 14 mayo | 17 mayo  
 | Complejidad algorítmica. | Algoritmos de búsqueda.  

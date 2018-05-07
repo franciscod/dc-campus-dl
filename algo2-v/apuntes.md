@@ -9,3 +9,5 @@
 
   - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Apunte de Diseño Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=53268)
 
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Apunte de Módulos Básicos Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=53269)
+

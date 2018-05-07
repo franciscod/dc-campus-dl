@@ -56,3 +56,5 @@ En este archivo encontrarán gran parte de la clase del día de la fecha.
 
   - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Clase teórica 8b. Complejidad. Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=62092)
 
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Introducción a Python Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=62148)
+
