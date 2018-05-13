@@ -13,3 +13,5 @@
 
   - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Camino mínimo (con animación) Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=53299)
 
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Grafos eulerianos y hamiltonianos Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=53300)
+
