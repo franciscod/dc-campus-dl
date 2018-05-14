@@ -18,5 +18,5 @@ taller](https://campus.exactas.uba.ar/course/view.php?id=991&section=10)
 
   - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/archive-24)Laboratorio 05 Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=62131)
 
-  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/archive-24)Laboratorio 06 Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=62399)
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/archive-24)Laboratorio 06 Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=62408)
 
