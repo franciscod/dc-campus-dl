@@ -9,10 +9,9 @@ Otorga **3 (tres) puntos** , tanto para la **Licenciatura** como para el
 **Doctorado** en Ciencias de la Computacion.
 
 **Aprobación** : Promocional. La nota se conforma con un 60% que aporta la
-resolución de una práctica de
-[ejercicios](https://campus.exactas.uba.ar/mod/resource/view.php?id=61391
-"Ejercicios") y el 40% restante según la performance en la exposición oral de
-un artículo que se elige un mes antes de su presentación.
+resolución de una práctica de ejercicios y el 40% restante según la
+performance en la exposición oral de un artículo que se elige un mes antes de
+su presentación.
 
 **Prerequisitos** : Lógica y Computabilidad. Se recomienda también haber
 cursado Base de Datos aunque no es excluyente.
