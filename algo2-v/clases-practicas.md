@@ -20,3 +20,5 @@ prácticas](https://campus.exactas.uba.ar/course/view.php?id=990&section=4)
 
   - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Solución de ejercicios de Rep y Abs Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=53219)
 
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Clase de Diseño I: interfaz y elección de estructuras (básicas) Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=53223)
+

@@ -9,3 +9,7 @@
 
   - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Práctica 3 - Planilla de Seguimiento Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=61241)
 
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Práctica 4 - Arquitecturas de referencia Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=62428)
+
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Práctica 5 - Apunte Buses Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=62429)
+
