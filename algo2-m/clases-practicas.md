@@ -22,3 +22,5 @@ prácticas](https://campus.exactas.uba.ar/course/view.php?id=989&section=5)
 
   - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Clase práctica 6 Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=52738)
 
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Clase práctica 7 Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=52739)
+
