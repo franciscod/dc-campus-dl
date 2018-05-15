@@ -14,3 +14,5 @@
 
   - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Práctica 4 - Resolución en lógica Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=62166)
 
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Práctica 5 - Programación lógica Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=53427)
+

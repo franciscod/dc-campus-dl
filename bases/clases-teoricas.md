@@ -28,7 +28,6 @@ Artículos recomendados
   4. Clase 13/Abril/2018: Normalización Parte 1/2
     - Normalización 1era. Parte: Capítulo 15 (hasta 15.5 inclusive) Elmasri/Navathe - Fundamentals of Database Systems, 6th Ed., Pearson, 2011
     - Presentacion Normalización 1/2 [<clase>](https://campus.exactas.uba.ar/pluginfile.php/79733/course/section/12872/ct04-Normalizacion.pdf) [<impresión>](https://campus.exactas.uba.ar/pluginfile.php/79733/course/section/12872/ct04-Normalizacion-impresion.pdf)
-
   5. Clase 20/Abril/2018: Normalización Parte 2/2
     - Normalización 2da. Parte: Capítulo 15 (hasta 15.3 inclusive) Fundamentals of Database Systems, 7th Ed., Pearson, 2015
     - Presentacion Normalización 2/2 [<clase>](https://campus.exactas.uba.ar/pluginfile.php/79733/course/section/12872/ct05-Normalizacion2.pdf) [<impresión>](https://campus.exactas.uba.ar/pluginfile.php/79733/course/section/12872/ct05-Normalizacion2-impresion.pdf)
@@ -48,6 +47,16 @@ Artículos recomendados
     - <http://www.cs.toronto.edu/~libkin/fmt/fmt.pdf>
     - Ehrenfeucht-Fraïssé games, Math Explorers Club, Cornell Department of Mathematics.<http://www.math.cornell.edu/~mec/Summer2009/Raluca>
     - Presentacion Teorema de Ehrenfeucht-Fraisse [<clase>](https://campus.exactas.uba.ar/pluginfile.php/79733/course/section/12872/ct07-FiniteModelTheory.pdf) [<impresión>](https://campus.exactas.uba.ar/pluginfile.php/79733/course/section/12872/ct07-FiniteModelTheory-impresion.pdf)   
+
+  8. Clase 11/Mayo/2018: Optimización 1/2  
+
+    - Almacenamiento físico: Capítulo 17 y 18 Elmasri/Navathe - Fundamentals of Database Systems, 6th Ed., Pearson, 2011.
+  9. Clase 11/Mayo/2018: Optimización 2/2   
+
+    - Query Processing: Capítulo 19 Elmasri/Navathe - Fundamentals of Database Systems, 6th Ed., Pearson, 2011.
+    - Material para trabajar en clase (Histogramas) [<aquí>](https://campus.exactas.uba.ar/pluginfile.php/79733/course/section/12872/ct09-Optimizacion-GraficosHistogramas.pdf)   
+  
+
   
 
   - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/folder/1524752928/icon)Clases Teóricas Carpeta](https://campus.exactas.uba.ar/mod/folder/view.php?id=60453)

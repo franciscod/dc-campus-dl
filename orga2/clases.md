@@ -31,6 +31,8 @@
 
   - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/archive-24)Clase Práctica 12 - SIMD: Ejercicios Resueltos (Ejercicios Integradores) Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=61198)
 
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Clase Práctica 14 - Pasaje a Modo Protegido Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=62449)
+
   - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Clase Teórica 1 - Arquitectura Básica del Procesador Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=60335)
 
   - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Clase Teórica 1 - Herramientas de Desarrollo Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=60336)
