@@ -28,3 +28,7 @@ clases](https://campus.exactas.uba.ar/course/view.php?id=1028&section=3)
 
   - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Clase 12: Repaso de Probabilidad, Teorema de Bayes y Filtros Bayesianos Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=62213)
 
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Clase 13: Filtro de Kalman y Filtro Extendido de Kalman Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=62501)
+
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Apunte sobre Filtro de Kalman Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=62504)
+
