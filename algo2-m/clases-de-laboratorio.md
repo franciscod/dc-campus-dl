@@ -30,3 +30,7 @@
 
   - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/archive-24)Conjunto sobre ABBs - Ejercitación (segundo taller obligatorio) Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=62178)
 
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Clase Labo 7 - Desarrollo de iteradores Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=62491)
+
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/archive-24)Clase Labo 7 - Taller 3 Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=62492)
+
