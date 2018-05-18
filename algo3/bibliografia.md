@@ -34,7 +34,7 @@ Infoteca del Departamento de Computación.
   - 12\. Berge C., Graphs, North-Holland, 1985. (b)
   - 13\. Bigs N.L., Lloyd E.K., Wilson R.J., Graph theory: 1736-1936, Oxford University Press, 1976.
   - 14\. Bondy J.A. and Murty U.S.R.,Graph theory with applications, Macmillan Press, 1976.
-  - 15\. Campello R., Maculan N.,Algoritmos e heurísticas, Editorial da Universidade Federal Fluminense, 1994.(a)(c)
+  - 15\. Campello R., Maculan N.,Algoritmos e [heurísticas](https://campus.exactas.uba.ar/mod/resource/view.php?id=62590 "Heurísticas"), Editorial da Universidade Federal Fluminense, 1994.(a)(c)
   - 16\. Deo N., Graph theory with applications to engineering and computer science, Prentice-Hall, 1974
   - 17\. Even S., Graph algorithms, Computer Science Press, 1979.
   - 18\. Ford L.R. and Fulkerson D.R., Flows in Networks, Princeton University Press, 1962. (b)

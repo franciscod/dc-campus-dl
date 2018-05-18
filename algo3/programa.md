@@ -29,11 +29,13 @@ detección de circuitos. Algoritmos para encontrar el [camino
 mínimo](https://campus.exactas.uba.ar/mod/resource/view.php?id=53298 "Camino
 mínimo") en un grafo: Dijkstra, Ford, Dantzig. Planificación de procesos:
 PERT/CPM. Algoritmos heurísticos: ejemplos. Nociones de evaluación de
-heurísticas y de técnicas metaheurísticas. Algoritmos aproximados. Heurísticas
-para el problema del viajante de comercio. Algoritmos para detectar
-planaridad. Algoritmos para coloreo de grafos. Algoritmos para encontrar el
-flujo máximo en una red: Ford y Fulkerson. Matching: algoritmos para
-correspondencias máximas en grafos bipartitos. Otras aplicaciones.
+[heurísticas](https://campus.exactas.uba.ar/mod/resource/view.php?id=62590
+"Heurísticas") y de técnicas metaheurísticas. Algoritmos aproximados.
+[Heurísticas](https://campus.exactas.uba.ar/mod/resource/view.php?id=62590
+"Heurísticas") para el problema del viajante de comercio. Algoritmos para
+detectar planaridad. Algoritmos para coloreo de grafos. Algoritmos para
+encontrar el flujo máximo en una red: Ford y Fulkerson. Matching: algoritmos
+para correspondencias máximas en grafos bipartitos. Otras aplicaciones.
 
 **Problemas NP-completos** Problemas tratables e intratables. Problemas de
 decisión. P y NP. Maquinas de Turing no determinísticas. Problemas NP-

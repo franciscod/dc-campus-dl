@@ -14,3 +14,5 @@
 
   - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Guía Práctica 5 - Demostración de corrección en SmallLang Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=52675)
 
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Guía Práctica 6 - Testing Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=62596)
+

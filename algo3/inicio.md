@@ -14,7 +14,7 @@ objetivos
   - Discutir problemas que se pueden modelar como problemas de grafos.
   - Presentar la definición de complejidad de algoritmos, de clasificación de problemas de acuerdo a su dificultad.
   - Clases P, NP y NP-completo.
-  - Nociones de algoritmos aproximados y heurísticas.
+  - Nociones de algoritmos aproximados y [heurísticas](https://campus.exactas.uba.ar/mod/resource/view.php?id=62590 "Heurísticas").
   - Resolver por computador problemas de tamaño mediano, donde se ejerciten las nuevas técnicas aprendidas.
 
 contenido
