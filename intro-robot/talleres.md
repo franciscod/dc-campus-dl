@@ -24,3 +24,7 @@
 
   - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Taller 10: Predicción EKF Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=62482)
 
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Taller 11: Actualización EKF Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=62581)
+
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Taller 11: explicación taller Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=62582)
+
