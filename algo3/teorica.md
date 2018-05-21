@@ -15,3 +15,5 @@
 
   - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Grafos eulerianos y hamiltonianos Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=53300)
 
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Planaridad Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=53301)
+

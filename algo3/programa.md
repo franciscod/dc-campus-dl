@@ -17,9 +17,10 @@ caminos, conexión, etc. Grafos bipartitos. Arboles: caracterización,
 [árboles](https://campus.exactas.uba.ar/mod/resource/view.php?id=53297
 "Árboles") orientados, árbol generador. Enumeración. [Grafos eulerianos y
 hamiltonianos](https://campus.exactas.uba.ar/mod/resource/view.php?id=53300
-"Grafos eulerianos y hamiltonianos"). Planaridad. Coloreo. Número cromático.
-Matching, conjunto independiente, recubrimiento. Recubrimiento de aristas y
-vértices.
+"Grafos eulerianos y hamiltonianos").
+[Planaridad](https://campus.exactas.uba.ar/mod/resource/view.php?id=53301
+"Planaridad"). Coloreo. Número cromático. Matching, conjunto independiente,
+recubrimiento. Recubrimiento de aristas y vértices.
 
 **Algoritmos en grafos y aplicaciones** Representación de un grafo en la
 computadora: matrices de incidencia y adyacencia, listas. Algoritmos de
@@ -33,9 +34,11 @@ PERT/CPM. Algoritmos heurísticos: ejemplos. Nociones de evaluación de
 "Heurísticas") y de técnicas metaheurísticas. Algoritmos aproximados.
 [Heurísticas](https://campus.exactas.uba.ar/mod/resource/view.php?id=62590
 "Heurísticas") para el problema del viajante de comercio. Algoritmos para
-detectar planaridad. Algoritmos para coloreo de grafos. Algoritmos para
-encontrar el flujo máximo en una red: Ford y Fulkerson. Matching: algoritmos
-para correspondencias máximas en grafos bipartitos. Otras aplicaciones.
+detectar
+[planaridad](https://campus.exactas.uba.ar/mod/resource/view.php?id=53301
+"Planaridad"). Algoritmos para coloreo de grafos. Algoritmos para encontrar el
+flujo máximo en una red: Ford y Fulkerson. Matching: algoritmos para
+correspondencias máximas en grafos bipartitos. Otras aplicaciones.
 
 **Problemas NP-completos** Problemas tratables e intratables. Problemas de
 decisión. P y NP. Maquinas de Turing no determinísticas. Problemas NP-

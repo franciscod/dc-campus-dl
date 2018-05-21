@@ -15,3 +15,6 @@ prácticas](https://campus.exactas.uba.ar/course/view.php?id=1001&section=2)
   - 27/04/2018 [NoSQL: Document Databases](https://campus.exactas.uba.ar/pluginfile.php/79733/course/section/12873/cp10_NoSQLDocument.pdf) \- [Map Reduce](https://campus.exactas.uba.ar/pluginfile.php/79733/course/section/12873/cp11_MapReduce.pdf)
   - 02/05/2018 [Key-Value](https://campus.exactas.uba.ar/pluginfile.php/79733/course/section/12873/cp12_KeyValue.pdf) [Ejercicio KV](https://campus.exactas.uba.ar/pluginfile.php/79733/course/section/12873/cp13_KeyValueTwitter.pdf) \- [Column Family](https://campus.exactas.uba.ar/pluginfile.php/79733/course/section/12873/cp14_ColumnFamily.pdf) \- [CF. Ejercicios](https://campus.exactas.uba.ar/pluginfile.php/79733/course/section/12873/cp15_EjSencilloNoSQLColumnFamily.pdf)  
 
+  - 18/05/2018 [Intro Optimización](https://campus.exactas.uba.ar/pluginfile.php/79733/course/section/12873/cp16_IntroOptimizaci%C3%B3n.pdf)
+  - 18/05/2018 [Ejercicio Optimización](https://campus.exactas.uba.ar/pluginfile.php/79733/course/section/12873/cp17_EjercicioOptimizacion.pdf)
+
