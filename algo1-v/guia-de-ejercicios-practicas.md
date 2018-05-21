@@ -16,3 +16,5 @@
 
   - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Guía Práctica 6 - Testing Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=62596)
 
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Guía Práctica 7 - Matrices Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=62658)
+
