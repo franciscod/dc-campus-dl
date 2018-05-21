@@ -41,3 +41,5 @@
 
   - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/folder/1524752928/icon)Laboratorio 7 Carpeta](https://campus.exactas.uba.ar/mod/folder/view.php?id=62361)
 
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/folder/1524752928/icon)Laboratorio 8 Carpeta](https://campus.exactas.uba.ar/mod/folder/view.php?id=62620)
+
