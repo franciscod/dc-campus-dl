@@ -70,3 +70,5 @@ En este archivo encontrarán gran parte de la clase del día de la fecha.
 
 Programas Python que resuelven los ejercicios dado en la clase del 17-05-2018
 
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/archive-24)Archivos para el taller de sorting](https://campus.exactas.uba.ar/mod/resource/view.php?id=62615)
+

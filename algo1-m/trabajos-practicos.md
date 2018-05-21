@@ -12,5 +12,7 @@ Prácticos](https://campus.exactas.uba.ar/course/view.php?id=987&section=8)
 
   - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/folder/1524752928/icon)TPI Carpeta](https://campus.exactas.uba.ar/mod/folder/view.php?id=62357)
 
-  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/archive-24)Enunciado - TPI Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=62358)
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Trabajo Práctico de Implementación - Enunciado Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=62637)
+
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/archive-24)Trabajo Práctico de Implementación - Fuentes Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=62628)
 
