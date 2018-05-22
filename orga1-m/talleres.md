@@ -12,3 +12,5 @@
 
   - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/folder/1524752928/icon)Taller 3 - Ciclo de Instrucción Carpeta](https://campus.exactas.uba.ar/mod/folder/view.php?id=61240)
 
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Taller de interrupciones Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=62683)
+
