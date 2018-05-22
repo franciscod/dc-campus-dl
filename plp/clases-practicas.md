@@ -24,3 +24,5 @@ prácticas](https://campus.exactas.uba.ar/course/view.php?id=995&section=6)
 
   - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Clase práctica Lógica 1 Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=53398)
 
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Clase práctica Lógica 2 Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=53399)
+

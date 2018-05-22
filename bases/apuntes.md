@@ -10,4 +10,7 @@
   5. [Cartilla Notación CRT](https://campus.exactas.uba.ar/pluginfile.php/79733/course/section/13205/CartillaNotacionCRT.pdf)
   6. [JsonSchema](https://campus.exactas.uba.ar/pluginfile.php/79733/course/section/13205/JsonSchema.pdf)
   7. [Notación DID](https://campus.exactas.uba.ar/pluginfile.php/79733/course/section/13205/NotacionDID.pdf)
+  8. [Apunte Optimización](https://campus.exactas.uba.ar/pluginfile.php/79733/course/section/13205/ApunteOptimizacion.pdf)  
+[Apendice Hash
+Join](https://campus.exactas.uba.ar/pluginfile.php/79733/course/section/13205/HashJoin.pdf)
 
