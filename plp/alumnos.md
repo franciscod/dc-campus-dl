@@ -3,11 +3,15 @@
 ---
 ### [Alumnos](https://campus.exactas.uba.ar/course/view.php?id=995&section=4)
 
- **Grupos para el TP de Programación Lógica**
+ **Grupos para el[TP de Programación
+Lógica](https://campus.exactas.uba.ar/mod/folder/view.php?id=62712 "TP de
+Programación Lógica")**
 
 **Última modificación:** 26/04/2018
 
-Versión actual de los grupos para el TP de Programación Lógica.
+Versión actual de los grupos para el [TP de Programación
+Lógica](https://campus.exactas.uba.ar/mod/folder/view.php?id=62712 "TP de
+Programación Lógica").
 
 Para modificar la composición de algún grupo, tienen que mandar mail a
 [Gabriela Steren](MailTo:gliynn86ARROBAgmailPUNTOcom) diciendo cuál sería el
