@@ -12,7 +12,7 @@ prácticas](https://campus.exactas.uba.ar/course/view.php?id=1100&section=3)
 
   - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Práctica 3: Arquitectura y Seguimiento Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=61294)
 
-  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Práctica 4: Entrada/Salida Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=62547)
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Práctica 4: Entrada/Salida Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=62678)
 
   - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Práctica 5: Buses Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=62548)
 
