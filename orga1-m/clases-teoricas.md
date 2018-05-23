@@ -18,3 +18,7 @@ teóricas](https://campus.exactas.uba.ar/course/view.php?id=1100&section=2)
 
   - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)T07 - Entrada/Salida y Buses Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=62007)
 
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)T08 - Microarquitectura Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=62775)
+
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)T09 - Memoria y Caché Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=62776)
+
