@@ -34,3 +34,7 @@
 
   - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/archive-24)Desarrollo de iteradores - Ejercitación (tercer taller obligatorio) Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=62492)
 
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Hashing - Slides Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=62723)
+
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/archive-24)Hashing - Ejercitación Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=62724)
+
