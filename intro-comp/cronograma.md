@@ -68,16 +68,23 @@ Python](https://campus.exactas.uba.ar/mod/resource/view.php?id=62148
 |  |  
 |  |  
 11 | 28 mayo | 31 mayo  
-| Recursión algorítmica: divide and conquer, torres de | Recursión
-algorítmica: cálculo de complejidad.  
-| Hanoi, Merge. | Consultas TP2  
+| **PARO!!!!**| |  Recursión algorítmica: divide and conquer, torres de Hanoi.
+Merge.| Recursión algorítmica: cálculo de complejidad.  
+---|---  
+|  
+  
+  
+  
+  
+|  
+| Consultas TP2  
 |  |  
 |  |  
 12 | 4 junio | 7 junio  
 | Uso de Tipos Abstractos de Datos. Parte pública. | Implementación de Tipos
 Abstractos de Datos.  
 |  | Parte privada. TADs Fecha y Lista.  
-|  | Entrega TP2  
+|  | Entrega TP2 (Domingo 10-06, 23:59)  
 |  |  
 13 | 11 junio | 14 junio  
 | Implementación de Tipos Abstractos de Datos. | Backtracking, 8 reinas.  
