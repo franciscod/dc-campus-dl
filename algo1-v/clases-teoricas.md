@@ -22,3 +22,7 @@ teóricas](https://campus.exactas.uba.ar/course/view.php?id=991&section=9)
 
   - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Teórica 9: Algoritmos de ordenamiento de secuencias Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=52689)
 
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Teórica 10: Algoritmos sobre secuencias ordenadas Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=52690)
+
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Teórica 11: Algoritmos de búsqueda de strings Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=52691)
+
