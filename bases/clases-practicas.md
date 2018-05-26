@@ -17,4 +17,5 @@ prácticas](https://campus.exactas.uba.ar/course/view.php?id=1001&section=2)
 
   - 18/05/2018 [Intro Optimización](https://campus.exactas.uba.ar/pluginfile.php/79733/course/section/12873/cp16_IntroOptimizaci%C3%B3n.pdf)
   - 18/05/2018 [Ejercicio Optimización](https://campus.exactas.uba.ar/pluginfile.php/79733/course/section/12873/cp17_EjercicioOptimizacion.pdf)
+  - 23/05/2018 [Ejercicio Optimización](https://campus.exactas.uba.ar/pluginfile.php/79733/course/section/12873/cp18_EjercicioOptmiza_1Graf.pdf)
 
