@@ -16,3 +16,5 @@
 
   - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)2018-04-17 - Evolución de las aplicaciones web - Parte II Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=61213)
 
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)2018-04-24 - Frontend - Backend - IT Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=62825)
+
