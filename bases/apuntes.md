@@ -14,3 +14,5 @@
 [Apendice Hash
 Join](https://campus.exactas.uba.ar/pluginfile.php/79733/course/section/13205/HashJoin.pdf)
 
+  9. [Apunte de Logging](https://campus.exactas.uba.ar/pluginfile.php/79733/course/section/13205/ApunteLogging.pdf)
+

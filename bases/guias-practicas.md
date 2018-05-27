@@ -15,4 +15,5 @@ prácticas](https://campus.exactas.uba.ar/course/view.php?id=1001&section=3)
 ### Trabajo Práctico
 
   1. [Primera Parte](https://campus.exactas.uba.ar/pluginfile.php/79733/course/section/12874/TraboPractico1.pdf)
+  2. [Segunda Parte](https://campus.exactas.uba.ar/pluginfile.php/79733/course/section/12874/TraboPractico2-1C2018.pdf)
 
