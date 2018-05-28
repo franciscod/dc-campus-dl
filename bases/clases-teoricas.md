@@ -55,8 +55,16 @@ Artículos recomendados
 
     - Query Processing: Capítulo 19 Elmasri/Navathe - Fundamentals of Database Systems, 6th Ed., Pearson, 2011.
     - Material para trabajar en clase (Histogramas) [<aquí>](https://campus.exactas.uba.ar/pluginfile.php/79733/course/section/12872/ct09-Optimizacion-GraficosHistogramas.pdf)   
+
+  10. Clase 01/Junio/2018: Schedules, Concurrencia y Recuperación  
   
 
+    - Historias: Capítulos 1 y 2 Bernstein/Hadzilacos/Goodman - Concurrency Control and Recovery in Database Systems [<aquí>](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/05/ccontrol.zip)
+    - Mecanismos de control de concurrencia, niveles de aislamiento Capítulos 3, 4 y 5 Bernstein/Hadzilacos/Goodman - Concurrency Control and Recovery in Database Systems [<aquí>](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/05/ccontrol.zip)
+    - Concurrencia: Material para trabajar en clase 1/1 (Historias) [<aquí>](https://campus.exactas.uba.ar/pluginfile.php/79733/course/section/12872/ct10-Concurrencia-EjemplosDeHistorias.pdf)   
+
+  
+  
   
 
   - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/folder/1524752928/icon)Clases Teóricas Carpeta](https://campus.exactas.uba.ar/mod/folder/view.php?id=60453)
