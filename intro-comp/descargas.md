@@ -76,3 +76,5 @@ Programas Python que resuelven los ejercicios dado en la clase del 17-05-2018
 
   - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/url/1524752928/icon)Programa Python Algoritmo KMP URL](https://campus.exactas.uba.ar/mod/url/view.php?id=62810)
 
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Enunciado TP2 Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=62837)
+
