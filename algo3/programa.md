@@ -19,8 +19,10 @@ caminos, conexión, etc. Grafos bipartitos. Arboles: caracterización,
 hamiltonianos](https://campus.exactas.uba.ar/mod/resource/view.php?id=53300
 "Grafos eulerianos y hamiltonianos").
 [Planaridad](https://campus.exactas.uba.ar/mod/resource/view.php?id=53301
-"Planaridad"). Coloreo. Número cromático. Matching, conjunto independiente,
-recubrimiento. Recubrimiento de aristas y vértices.
+"Planaridad").
+[Coloreo](https://campus.exactas.uba.ar/mod/resource/view.php?id=53304
+"Coloreo"). Número cromático. Matching, conjunto independiente, recubrimiento.
+Recubrimiento de aristas y vértices.
 
 **Algoritmos en grafos y aplicaciones** Representación de un grafo en la
 computadora: matrices de incidencia y adyacencia, listas. Algoritmos de
@@ -36,13 +38,16 @@ PERT/CPM. Algoritmos heurísticos: ejemplos. Nociones de evaluación de
 "Heurísticas") para el problema del viajante de comercio. Algoritmos para
 detectar
 [planaridad](https://campus.exactas.uba.ar/mod/resource/view.php?id=53301
-"Planaridad"). Algoritmos para coloreo de grafos. Algoritmos para encontrar el
-flujo máximo en una red: Ford y Fulkerson. Matching: algoritmos para
-correspondencias máximas en grafos bipartitos. Otras aplicaciones.
+"Planaridad"). Algoritmos para
+[coloreo](https://campus.exactas.uba.ar/mod/resource/view.php?id=53304
+"Coloreo") de grafos. Algoritmos para encontrar el flujo máximo en una red:
+Ford y Fulkerson. Matching: algoritmos para correspondencias máximas en grafos
+bipartitos. Otras aplicaciones.
 
 **Problemas NP-completos** Problemas tratables e intratables. Problemas de
 decisión. P y NP. Maquinas de Turing no determinísticas. Problemas NP-
-completos. Relación entre P y NP. Problemas de grafos NP-completos: coloreo de
-grafos, grafos hamiltonianos, recubrimiento mínimo de las aristas, corte
-máximo, etc.
+completos. Relación entre P y NP. Problemas de grafos NP-completos:
+[coloreo](https://campus.exactas.uba.ar/mod/resource/view.php?id=53304
+"Coloreo") de grafos, grafos hamiltonianos, recubrimiento mínimo de las
+aristas, corte máximo, etc.
 
