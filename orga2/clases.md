@@ -37,6 +37,10 @@
 
   - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Clase Práctica 15 - Interrupciones Externas Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=62715)
 
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/image-24)Clase Práctica 16 - Identity Mapping Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=62924)
+
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Clase Práctica 17 - Map/Unmap Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=62925)
+
   - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Clase Teórica 1 - Arquitectura Básica del Procesador Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=60335)
 
   - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Clase Teórica 1 - Herramientas de Desarrollo Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=60336)

@@ -14,3 +14,5 @@ Prácticas](https://campus.exactas.uba.ar/course/view.php?id=987&section=6)
 
   - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Clase Práctica 05 - Invariantes Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=61921)
 
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Clase Práctica 06 - Testing Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=62891)
+
