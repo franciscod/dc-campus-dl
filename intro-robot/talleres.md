@@ -28,3 +28,5 @@
 
   - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Taller 11: Explicación del problema del taller Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=62582)
 
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Taller 12: Planificación de caminos A* Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=62938)
+

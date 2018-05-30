@@ -38,3 +38,7 @@ laboratorio](https://campus.exactas.uba.ar/course/view.php?id=990&section=6)
 
   - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/archive-24)Hashing - Ejercitación Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=62733)
 
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Heap - Slides Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=62944)
+
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/archive-24)Heap - Ejercitación Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=62945)
+

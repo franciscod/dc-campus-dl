@@ -24,3 +24,5 @@
 
   - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/archive-24)Taller 10: EKF prediccion Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=62507)
 
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/archive-24)Taller 12: Planificación de caminos A* Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=62939)
+
