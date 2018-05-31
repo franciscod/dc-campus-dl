@@ -24,3 +24,5 @@ prácticas](https://campus.exactas.uba.ar/course/view.php?id=990&section=4)
 
   - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Elección de estructuras 2  Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=53224)
 
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Elección de Estructuras 3 Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=62982)
+
