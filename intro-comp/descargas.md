@@ -82,3 +82,5 @@ Programas Python que resuelven los ejercicios dado en la clase del 17-05-2018
 
   - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Clase de recursividad Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=62991)
 
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Práctica recursividad y D&C Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=63005)
+
