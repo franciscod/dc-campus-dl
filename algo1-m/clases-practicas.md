@@ -16,3 +16,7 @@ Prácticas](https://campus.exactas.uba.ar/course/view.php?id=987&section=6)
 
   - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Clase Práctica 06 - Testing Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=62891)
 
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Clase práctica 7 - Programación Usando Invariantes de Ciclo Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=63031)
+
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Clase Práctica 7bis - Transformaciones de Estados Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=63032)
+
