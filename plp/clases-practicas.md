@@ -30,3 +30,5 @@ prácticas](https://campus.exactas.uba.ar/course/view.php?id=995&section=6)
 
   - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Presentación del Paradigma Objetos Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=53406)
 
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Clase práctica - Objetos 1 Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=63023)
+
