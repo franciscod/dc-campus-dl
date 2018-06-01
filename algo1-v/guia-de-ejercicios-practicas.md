@@ -18,3 +18,5 @@
 
   - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Guía Práctica 7 - Matrices Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=62658)
 
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Guía Práctica 8 - Secuencias Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=63038)
+
