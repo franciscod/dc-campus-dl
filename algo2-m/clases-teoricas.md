@@ -20,3 +20,5 @@ teóricas](https://campus.exactas.uba.ar/course/view.php?id=989&section=12)
 
   - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Teórica Colas de Prioridad Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=62659)
 
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Teórica: Sorting Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=63045)
+
