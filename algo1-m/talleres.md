@@ -43,7 +43,7 @@
 
   - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/folder/1524752928/icon)Laboratorio 8 Carpeta](https://campus.exactas.uba.ar/mod/folder/view.php?id=62620)
 
-  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/folder/1524752928/icon)Laboratorio 9 Carpeta](https://campus.exactas.uba.ar/mod/folder/view.php?id=63098)
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/folder/1524752928/icon)Laboratorio 10 Carpeta](https://campus.exactas.uba.ar/mod/folder/view.php?id=63098)
 
   - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/archive-24)Laboratorio 9 Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=63099)
 
