@@ -37,7 +37,7 @@
 
   - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Clase Práctica 15 - Interrupciones Externas Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=62715)
 
-  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/image-24)Clase Práctica 16 - Identity Mapping Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=62924)
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/image-24)Clase Práctica 16 - Identity Mapping (ver con Firefox, bajen el .svg) Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=62924)
 
   - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Clase Práctica 17 - Map/Unmap Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=62925)
 
