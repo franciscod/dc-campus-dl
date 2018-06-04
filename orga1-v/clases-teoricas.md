@@ -22,3 +22,7 @@ teóricas](https://campus.exactas.uba.ar/course/view.php?id=997&section=2)
 
   - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)T09 - Cache y memoria Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=53496)
 
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)T10 - Performance Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=63112)
+
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)T11 - Representación de números reales Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=63113)
+
