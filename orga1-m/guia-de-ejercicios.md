@@ -16,3 +16,5 @@ ejercicios](https://campus.exactas.uba.ar/course/view.php?id=1100&section=5)
 
   - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Práctica 5 - Buses Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=62431)
 
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Práctica 6 - Microarquitectura del CPU Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=63232)
+
