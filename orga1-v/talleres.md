@@ -23,6 +23,10 @@
 
   - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Interrupciones: "Presentación del taller" Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=62706)
 
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Buses: Enunciado Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=53532)
+
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/archive-24)Buses: Paquete Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=53533)
+
   - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/archive-24)simulador Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=62170)
 
   - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/folder/1524752928/icon)Taller Buses Carpeta](https://campus.exactas.uba.ar/mod/folder/view.php?id=62883)

@@ -12,3 +12,11 @@ ejercicios](https://campus.exactas.uba.ar/course/view.php?id=997&section=5)
 
   - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Diseño de ISA Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=53516)
 
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Entrada/Salida Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=53517)
+
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Buses Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=53518)
+
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Microarquitectura del CPU Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=53519)
+
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Memoria Caché Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=53520)
+
