@@ -30,3 +30,5 @@
 
   - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Taller 12: Planificación de caminos A* Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=62938)
 
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Taller 13: Planificación de caminos RRT Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=63243)
+
