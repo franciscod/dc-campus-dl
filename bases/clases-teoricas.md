@@ -50,7 +50,7 @@ Artículos recomendados
   8. Clase 11/Mayo/2018: Optimización 1/2
 
     - Almacenamiento físico: Capítulo 17 y 18 Elmasri/Navathe - Fundamentals of Database Systems, 6th Ed., Pearson, 2011.
-  9. Clase 11/Mayo/2018: Optimización 2/2 
+  9. Clase 11/Mayo/2018: Optimización 2/2
 
     - Query Processing: Capítulo 19 Elmasri/Navathe - Fundamentals of Database Systems, 6th Ed., Pearson, 2011.
     - Material para trabajar en clase (Histogramas) [<aquí>](https://campus.exactas.uba.ar/pluginfile.php/79733/course/section/12872/ct09-Optimizacion-GraficosHistogramas.pdf)
@@ -62,10 +62,10 @@ Artículos recomendados
     - Concurrencia: Material para trabajar en clase 1/1 (Historias) [<aquí>](https://campus.exactas.uba.ar/pluginfile.php/79733/course/section/12872/ct10-Concurrencia-EjemplosDeHistorias.pdf)  
   
 
-  11. Clase 08/Junio/2018: Bases de Datos Distribuídas y Paralelas 
+  11. Clase 08/Junio/2018: Bases de Datos Distribuídas y Paralelas
 
   -     - Capítulo 23 Elmasri/Navathe - Fundamentals of Database Systems, 7th Ed., Pearson, 2015
-    - Presentación Bases de Datos Distribuidas: <clase> <impresión>
+    - Presentación Bases de Datos Distribuidas: [<clase>](https://campus.exactas.uba.ar/pluginfile.php/79733/course/section/12872/ct11-DistributedDB.pdf) [<impresión>](https://campus.exactas.uba.ar/pluginfile.php/79733/course/section/12872/ct11-DistributedDB-impresion.pdf)
 
   
   
