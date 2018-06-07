@@ -24,7 +24,7 @@ Teóricas](https://campus.exactas.uba.ar/course/view.php?id=987&section=5)
 
   - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Teórica 09: Algoritmos de Ordenamiento para secuencias (Rev. 18/5/18)  Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=62559)
 
-  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Teórica 10: String Matching (Rev. 18/5/18) Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=62560)
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Teórica 10: String Matching (Rev. 6/6/18) Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=62560)
 
-  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Teórica 11: Algoritmos sobre secuencias ya ordenadas Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=62591)
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Teórica 11: Algoritmos sobre secuencias ya ordenadas (Rev. 6/6/18) Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=62591)
 

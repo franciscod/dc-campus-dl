@@ -18,9 +18,9 @@ prácticas](https://campus.exactas.uba.ar/course/view.php?id=997&section=3)
 
   - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Formato de Instrucción Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=53504)
 
-  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/archive-24)Diapositivas Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=53505)
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Entrada y Salida - Interrupciones Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=53505)
 
-  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Buses Diapositivas Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=53506)
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Buses Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=53506)
 
   - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Práctica 1: Representación de enteros  Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=60322)
 
