@@ -58,13 +58,16 @@ Artículos recomendados
   
 
     - Historias: Capítulos 1 y 2 Bernstein/Hadzilacos/Goodman - Concurrency Control and Recovery in Database Systems [<aquí>](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/05/ccontrol.zip)
+    - Presentacion Schedules usada en la [teórica ](https://campus.exactas.uba.ar/pluginfile.php/79733/course/section/12872/TeoricaSchedules.pdf "TeoricaSchedules")
     - Mecanismos de control de concurrencia, niveles de aislamiento Capítulos 3, 4 y 5 Bernstein/Hadzilacos/Goodman - Concurrency Control and Recovery in Database Systems [<aquí>](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/05/ccontrol.zip)
     - Concurrencia: Material para trabajar en clase 1/1 (Historias) [<aquí>](https://campus.exactas.uba.ar/pluginfile.php/79733/course/section/12872/ct10-Concurrencia-EjemplosDeHistorias.pdf)  
   
 
   11. Clase 08/Junio/2018: Bases de Datos Distribuídas y Paralelas
 
-  -     - Capítulo 23 Elmasri/Navathe - Fundamentals of Database Systems, 7th Ed., Pearson, 2015
+  -     - Logging Capítulo 6 Bernstein/Hadzilacos/Goodman - Concurrency Control and Recovery in Database Systems [<aquí>](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/05/ccontrol.zip)
+    - Presentacion [Logging ](https://campus.exactas.uba.ar/pluginfile.php/79733/course/section/12872/TeoricaLogging.pdf)
+    - Capítulo 23 Elmasri/Navathe - Fundamentals of Database Systems, 7th Ed., Pearson, 2015
     - Presentación Bases de Datos Distribuidas: [<clase>](https://campus.exactas.uba.ar/pluginfile.php/79733/course/section/12872/ct11-DistributedDB.pdf) [<impresión>](https://campus.exactas.uba.ar/pluginfile.php/79733/course/section/12872/ct11-DistributedDB-impresion.pdf)
 
   
