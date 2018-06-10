@@ -19,4 +19,5 @@ prácticas](https://campus.exactas.uba.ar/course/view.php?id=1001&section=2)
   - 23/05/2018 [Ejercicio Optimización](https://campus.exactas.uba.ar/pluginfile.php/79733/course/section/12873/cp18_EjercicioOptmiza_1Graf.pdf)
   - 01/06/2018 [Control de Concurrencia - Pesimista](https://campus.exactas.uba.ar/pluginfile.php/79733/course/section/12873/cp19_ModeloPesimista.pdf)
   - 06/06/2018 [Control de Concurrencia - Optimista](https://campus.exactas.uba.ar/pluginfile.php/79733/course/section/12873/cp20_ModeloOptimista.pdf) \- [Ejercicio Pesimista](https://campus.exactas.uba.ar/pluginfile.php/79733/course/section/12873/cp21_EjercicioPesimista%20%282%29.pdf)
+  - 08/06/2018 [Recuperación ante fallas utilizando Logging](https://campus.exactas.uba.ar/pluginfile.php/79733/course/section/12873/cp22_RecuperacionAnteFallas.pdf)
 
