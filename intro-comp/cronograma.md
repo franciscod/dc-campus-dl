@@ -68,39 +68,35 @@ Python](https://campus.exactas.uba.ar/mod/resource/view.php?id=62148
 |  |  
 |  |  
 11 | 28 mayo | 31 mayo  
-| **PARO!!!!**| |  Recursión algorítmica: divide and conquer, torres de Hanoi.
-Merge.| Recursión algorítmica: cálculo de complejidad.  
+| **PARO!!!!** |  |  Recursión algorítmica: divide and conquer, torres de
+Hanoi. Merge. | Recursión algorítmica: cálculo de complejidad.  
 ---|---  
 |  
-  
-  
-  
-  
-|  
-| Consultas TP2  
+|  | Consultas TP2  
 |  |  
 |  |  
 12 | 4 junio | 7 junio  
-| Uso de Tipos Abstractos de Datos. Parte pública. | Implementación de Tipos
-Abstractos de Datos.  
-|  | Parte privada. TADs Fecha y Lista.  
-|  | Entrega TP2 (Domingo 10-06, 23:59)  
+|  | Consulta TP2  
+| Cálculo de Complejidad en Algoritmos recursivos. | Práctica de cálculo de
+complejidad recursiva.  
+| práctica D&C. Consulta TP2 | Entrega TP2 (Domingo 10-06, 23:59)  
 |  |  
 13 | 11 junio | 14 junio  
-| Implementación de Tipos Abstractos de Datos. | Backtracking, 8 reinas.  
-| Parte privada. TADs Pila, Cola y Conjunto. | Presentación TP3.  
-|  |  
+| Introducción Tipos Abstractos de Datos | Implementación de Tipos Abstractos
+de Datos.  
+| Parte Publica. TADs Pila, Cola y Conjunto. | Parte privada. TADs Pila, Cola
+y Conjunto.  
+| Parte Privada. Introducción | Práctica de TAD.  
 |  |  
 14 | 18 junio | 21 junio  
-| Clase de repaso. Ejercicios y consultas. | Clase de repaso. Ejercicios y
-consultas.  
-|  |  
-|  |  
+| Backtracking, 8 reinas. | Clase de repaso. Ejercicios y consultas.  
+| Clase de repaso. Ejercicios y consultas. |  
+| Presentación TP3. |  
 |  |  
 15 | 25 junio | 28 junio  
 | Clase de repaso. Ejercicios y consultas. | Clase de repaso. Ejercicios y
 consultas.  
-|  | Entrega TP3  
+|  | Entrega TP3 (Domingo 01-07, 23:59)  
 |  |  
 |  |  
 16 | 2 julio | 5 julio  
