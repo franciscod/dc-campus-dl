@@ -14,5 +14,11 @@ practicas](https://campus.exactas.uba.ar/course/view.php?id=991&section=6)
 
   - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Clase Práctica 5 Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=52664)
 
-  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Clase Práctica 7 Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=52666)
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Clase Práctica 6 Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=63414)
+
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Clase Práctica 8 Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=52666)
+
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Clase Práctica 9 Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=63412)
+
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Clase Práctica 10 Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=63415)
 

@@ -49,3 +49,9 @@
 
   - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Clase Searching Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=63100)
 
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/folder/1524752928/icon)Laboratorio 11 Carpeta](https://campus.exactas.uba.ar/mod/folder/view.php?id=63385)
+
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/archive-24)Laboratorio 11 - Enunciado - Taller Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=63386)
+
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/archive-24)GTEST Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=63387)
+
