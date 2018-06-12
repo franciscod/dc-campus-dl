@@ -28,3 +28,5 @@ prácticas](https://campus.exactas.uba.ar/course/view.php?id=990&section=4)
 
   - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Clase práctica de Ordenamiento Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=53229)
 
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Divide & Conquer - Diapos Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=53233)
+

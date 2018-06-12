@@ -21,7 +21,7 @@ TP Funcional |
   
 TP Objetos |
 
-**Presentación: 12/06** **\- Entrega: 21/06** **\- Devolución: 28/06  
+**Presentación: 14/06** **\- Entrega: 26/06** **\- Devolución: 28/06  
 **  
   
 Primer Parcial |
