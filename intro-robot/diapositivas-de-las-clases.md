@@ -36,3 +36,9 @@ clases](https://campus.exactas.uba.ar/course/view.php?id=1028&section=3)
 
   - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Clase 15: Planificación de caminos con A* Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=62948)
 
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Clase 16: Planificación de caminos con RRT Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=63493)
+
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Clase 17: Mapeo del ambiente Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=63494)
+
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Clase 18: Robótica aérea Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=63495)
+

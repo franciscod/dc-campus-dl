@@ -28,3 +28,13 @@
 
   - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Octava clase Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=62952)
 
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Novena clase Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=63501)
+
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/url/1524752928/icon)Link MCMC URL](https://campus.exactas.uba.ar/mod/url/view.php?id=63502)
+
+Plataforma visual para Markov Chain
+
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Razonamiento Aproximado Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=63503)
+
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Artículo de Markov Chain Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=63505)
+

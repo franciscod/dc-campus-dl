@@ -28,3 +28,5 @@ Teóricas](https://campus.exactas.uba.ar/course/view.php?id=987&section=5)
 
   - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Teórica 11: Algoritmos sobre secuencias ya ordenadas (Rev. 6/6/18) Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=62591)
 
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Teórica 12: Verificación Automática Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=63483)
+
