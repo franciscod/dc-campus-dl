@@ -26,3 +26,5 @@ teóricas](https://campus.exactas.uba.ar/course/view.php?id=991&section=9)
 
   - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Teórica 11: Algoritmos de búsqueda de strings Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=52691)
 
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/archive-24)Teórica 12: Dafny Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=63517)
+

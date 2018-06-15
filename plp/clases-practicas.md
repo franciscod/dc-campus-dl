@@ -32,3 +32,9 @@ prácticas](https://campus.exactas.uba.ar/course/view.php?id=995&section=6)
 
   - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Clase práctica - Objetos 1 Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=63023)
 
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Clase práctica - Objetos 2 Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=53405)
+
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/text-24)Taller de objetos - esqueleto Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=53402)
+
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Taller de objetos - transparencias Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=53403)
+

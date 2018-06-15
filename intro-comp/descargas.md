@@ -96,3 +96,11 @@ Programas Python que resuelven los ejercicios dado en la clase del 17-05-2018
 
   - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)PrácticaComplejidad Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=63466)
 
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Clase Implementación de TAD Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=63532)
+
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Clase Uso de TADs Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=63534)
+
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/archive-24)Archivos-uso-de-TADS](https://campus.exactas.uba.ar/mod/resource/view.php?id=63538)
+
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)TAD en Phyton Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=63546)
+
