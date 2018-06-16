@@ -65,3 +65,5 @@
 
   - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Clase Teórica 8 - Tareas Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=63019)
 
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/archive-24)Clase Teórica 9 - Bibliotecas de código Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=63576)
+
