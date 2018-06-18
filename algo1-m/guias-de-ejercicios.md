@@ -20,3 +20,5 @@ Ejercicios](https://campus.exactas.uba.ar/course/view.php?id=987&section=7)
 
   - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Práctiva 8 - Algoritmos sobre secuencias Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=63339)
 
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Práctica 9 - Matrices Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=63594)
+
