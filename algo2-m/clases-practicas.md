@@ -24,7 +24,11 @@ prácticas](https://campus.exactas.uba.ar/course/view.php?id=989&section=5)
 
   - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Clase práctica 7 Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=52739)
 
-  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Clase práctica - Sorting - TM Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=63179)
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Clase práctica 8 (Slides) Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=52740)
 
-  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Clase práctica - Divide and Conquer (diapos) Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=63520)
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Clase práctica 8 (Soluciones) Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=52741)
+
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Clase práctica 9 (Sorting) Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=63179)
+
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Clase práctica 10 (Divide and Conquer) Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=63520)
 

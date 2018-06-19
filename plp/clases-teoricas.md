@@ -22,3 +22,5 @@ teóricas](https://campus.exactas.uba.ar/course/view.php?id=995&section=5)
 
   - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Programación OO I Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=53379)
 
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Tipos para POO Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=53380)
+
