@@ -112,3 +112,9 @@ Programas Python que resuelven los ejercicios dado en la clase del 17-05-2018
 
   - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/archive-24)Ejercitacion Lista Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=63618)
 
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/archive-24)Solución al Ejercicio de Implementación de Listas. Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=63657)
+
+Hay dos soluciones alternativas. La segunda tiene la ventaja que la lista es
+accesible por el comienzo y por el final. El programa Main es para que puedan
+hacer pruebas.
+
