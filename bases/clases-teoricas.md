@@ -79,3 +79,5 @@ Artículos recomendados
 
   - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/folder/1524752928/icon)Clases Teóricas Carpeta](https://campus.exactas.uba.ar/mod/folder/view.php?id=60453)
 
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/forum/1524752928/icon)Clase Avanzada de diseño Foro](https://campus.exactas.uba.ar/mod/forum/view.php?id=63670)
+
