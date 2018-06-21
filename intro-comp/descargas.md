@@ -118,3 +118,5 @@ Hay dos soluciones alternativas. La segunda tiene la ventaja que la lista es
 accesible por el comienzo y por el final. El programa Main es para que puedan
 hacer pruebas.
 
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/archive-24)EjercicioArbolBinario Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=63712)
+
