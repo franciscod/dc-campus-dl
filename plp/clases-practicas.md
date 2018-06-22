@@ -38,3 +38,5 @@ prácticas](https://campus.exactas.uba.ar/course/view.php?id=995&section=6)
 
   - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Taller de objetos - transparencias Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=53403)
 
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Clase práctica - Subtipado Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=63727)
+

@@ -24,3 +24,5 @@ teóricas](https://campus.exactas.uba.ar/course/view.php?id=989&section=12)
 
   - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Teórica Divide & Conquer Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=63378)
 
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Teórica: Sort & Diccionarios en Memoria Secundaria Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=63724)
+
