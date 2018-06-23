@@ -120,3 +120,5 @@ hacer pruebas.
 
   - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/archive-24)EjercicioArbolBinario Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=63712)
 
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/archive-24)Tests TP3 Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=63777)
+
