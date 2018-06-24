@@ -122,3 +122,10 @@ hacer pruebas.
 
   - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/archive-24)Tests TP3 Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=63777)
 
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)ResolucionesDyC Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=63781)
+
+Estas son las resoluciones de los ejercicios dados en clase. El archivo lo
+hemos tomado de la materia Algo2. Los cálculos de complejidad se hacen en base
+al Teorema Maestro que no vimos. Pueden usar esos cálculos de complejidad como
+referencia a los que hagan ustedes a mano.
+
