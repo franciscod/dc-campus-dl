@@ -11,3 +11,5 @@
 
   - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Apunte de Módulos Básicos Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=53269)
 
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Apunte para el taller de sorting Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=63827)
+
