@@ -131,3 +131,5 @@ referencia a los que hagan ustedes a mano.
 
   - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Enunciado Segundo Parcial para Simulacro Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=64449)
 
+  - [![ ](https://campus.exactas.uba.ar/theme/image.php/aardvark/core/1524752928/f/pdf-24)Ejercicio Extra DC Archivo](https://campus.exactas.uba.ar/mod/resource/view.php?id=64504)
+
